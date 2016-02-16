@@ -1,0 +1,9 @@
+	GROUP "bdl_low_res"
+        METADATA
+                 WMS_TITLE "Low Resolution Natural Color (31-500 meter) (Overview)"
+                 WMS_ABSTRACT "The 'bld_low_res' layer contains the Blue Marble Next Generation July dataset (http://www.nasa.gov/vision/earth/features/blue_marble.html).  It is intended to be viewed at scales greater than 250m per pixel."
+                "wms_group_title"       "bdl_low_res"
+                "wms_extent"    "-180.0 -90.0 180.0 90.0"
+
+        END
+

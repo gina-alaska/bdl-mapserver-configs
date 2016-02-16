@@ -1,0 +1,29 @@
+##################
+#  BDL Mid Res
+
+    LAYER
+        name bdl_mid_res_overview
+        type raster
+        status on
+	DATA "/hub/bdl/production/15_meter/3338/terracolor.aa.jpg.tif"
+
+	include "includes/projections/3338.include.map"
+        MAXSCALE 3000000
+        MINSCALE 430000
+	include "defaults/bdl_mid_overview_metadata.include.map"
+	include "defaults/layer_debug.include.map"
+    END
+
+    LAYER
+        name bdl_mid_res_full
+        type raster
+        status on
+	DATA "/hub/bdl/production/15_meter/3338/terracolor.aa.jpg.tif"
+	include "includes/projections/3338.include.map"
+        MAXSCALE 430000
+	include "defaults/bdl_mid_full_metadata.include.map"
+	include "defaults/layer_debug.include.map"
+
+    END
+
+

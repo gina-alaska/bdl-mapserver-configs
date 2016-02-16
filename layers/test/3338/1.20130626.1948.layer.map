@@ -1,0 +1,27 @@
+LAYER
+	 name t1.20130626.1948
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/hub/bdl/production/test/13_35_00_695_t1.20130626.1948_ATM1_500_ATM4_ATM3_ATM1.alaska_albers.tif"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"datum=WGS84"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 METADATA
+		 WMS_TITLE "terra-1 ldfjlsdjfsd"
+		 WMS_ABSTRACT "this is an example"
+		 "wms_extent" "-3000000.0 -1000000.0 3000000.0 3000000.0"
+	 END
+END

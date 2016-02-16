@@ -1,0 +1,29 @@
+#  500 Meter layer stuff for 3572
+
+    LAYER
+        name bdl_low_full
+        type raster
+        status on
+        DATA "/hub/bdl/production/500_meter/blue_marble_3572.tif"
+	include "includes/projections/3572.include.map"
+
+        #MINSCALE 2000000
+        MAXSCALE 30000000
+
+	include "defaults/layer_debug.include.map"
+	include "defaults/bdl_low_full_metadata.include.map"
+    END
+
+
+    LAYER
+        name bdl_low_overview
+        type raster
+        status on
+	DATA "/hub/bdl/production/500_meter/blue_marble_3572.tif"
+	include "includes/projections/3572.include.map"
+
+        MINSCALE 30000000
+        MAXSCALE 3000000000000000
+	include "defaults/layer_debug.include.map"
+        include "defaults/bdl_low_full_metadata.include.map"
+    END

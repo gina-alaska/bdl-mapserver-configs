@@ -1,0 +1,17 @@
+LAYER
+  NAME "Nome_50_North"
+  STATUS on
+  DATA "/hub/bdl/production/charts/faa/Nome_50_North.aa.tif"
+  TYPE RASTER
+  OFFSITE 0 0 0 
+  PROCESSING "RESAMPLE=BILINEAR"
+  DEBUG on
+  include "includes/projections/alaska_albers_nad83.include.map"
+  GROUP "FAA Charts"
+  METADATA
+       "wms_title"     	"Nome 50 North"
+       WMS_ABSTRACT    	"FAA Chart Nome 50 North"
+	"wms_group_abstract" 	"FAA Charts including map collars. For more information please see http://aeronav.faa.gov/index.asp?xml=aeronav/applications/VFR/chartlist_sect .  This services is NOT FOR NAVIGATION!"
+ 	"wms_group_title" 	"FAA Charts"
+  END
+END

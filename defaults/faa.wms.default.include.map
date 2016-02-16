@@ -1,0 +1,37 @@
+    NAME "FAA Charts"
+    STATUS ON
+    SIZE 260 260
+
+# Set image mode to RGB
+    IMAGETYPE png24
+    IMAGECOLOR 0 0 0
+
+# Debug is on!
+    DEBUG ON
+    SHAPEPATH "."
+
+#default max size is 6k by 6k..
+        MAXSIZE 13312
+
+# Output formats - only important thing is png24 - 24bit pngs.
+
+        include "includes/defaults/output_formats.agg.include.map"
+
+### Not used for wms based stuff..
+        include "includes/projections/4326.include.map"
+
+	EXTENT -180 0 180 90
+
+     WEB
+        IMAGEPATH             "/hub/bdl/cache/tmp/"
+        METADATA
+                "wms_title"             "FAA Charts - Not for Navigation"
+                "wms_name"              "FAA Charts - Not For Navigation"
+                "wms_abstract"          "A WMS-compliant map server provided by the Alaska Mapped program (http://www.alaskamapped.org) and UAF-GINA (http://www.gina.alaska.edu) which contains the FAA charts. This service is NOT TO BE USED FOR NAVIGATION!"
+                include "includes/defaults/wms_defaults.include.map"
+                "wms_onlineresource"    "http://wms.alaskamapped.org/faa_charts?"
+		#"wms_onlineresource"    "http://dib.gina.alaska.edu/faa_charts?"
+                "ows_schemas_location" "http://wms.alaskamapped.org/schemas/"
+		"wms_enable_request"    "*"
+        END
+    END

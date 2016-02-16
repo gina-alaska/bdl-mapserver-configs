@@ -1,0 +1,17 @@
+LAYER
+  NAME "Anchorage_84_North"
+  STATUS on
+  DATA "/hub/bdl/production/charts/faa/Anchorage_84_North.aa.tif"
+  TYPE RASTER
+  OFFSITE 0 0 0 
+  DEBUG on
+  PROCESSING "RESAMPLE=BILINEAR"
+  include "includes/projections/alaska_albers_nad83.include.map"
+  GROUP "FAA Charts"
+  METADATA
+       "wms_title"     	"Anchorage 84 North"
+       WMS_ABSTRACT    	"FAA Chart Anchorage 84 North"
+	"wms_group_abstract" 	"FAA Charts including map collars. For more information please see http://aeronav.faa.gov/index.asp?xml=aeronav/applications/VFR/chartlist_sect .  This services is NOT FOR NAVIGATION!"
+ 	"wms_group_title" 	"FAA Charts"
+  END
+END

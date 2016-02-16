@@ -1,0 +1,241 @@
+ 	LAYER
+        name natural_earth_GRAY_HR_SR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Gray Earth with Shaded Relief and Hypsography"
+                WMS_ABSTRACT "Gray Earth with Shaded Relief and Hypsography.  The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_GRAY_HR_SR_OB
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR_OB.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Gray Earth with Shaded Relief, Hypsography, and Ocean Bottom"
+                WMS_ABSTRACT "Gray Earth with Shaded Relief, Hypsography, and Ocean Bottom. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_GRAY_HR_SR_OB_DR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR_OB_DR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Gray Earth with Shaded Relief, Hypsography, Ocean Bottom, and Drainages"
+                WMS_ABSTRACT "Gray Earth with Shaded Relief, Hypsography, Ocean Bottom, and Drainages. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_GRAY_HR_SR_W
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR_W.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Gray Earth with Shaded Relief, Hypsography, and Flat Water"
+                WMS_ABSTRACT "Gray Earth with Shaded Relief, Hypsography, and Flat Water. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+
+
+LAYER
+        name natural_earth_HYP_HR_SR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/HYP_HR_SR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Cross Blended Hypso with Shaded Relief"
+                WMS_ABSTRACT "Cross Blended Hypso with Shaded Relief, land coloring based on elevation.  The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_HYP_HR_SR_W
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/HYP_HR_SR_W.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Cross Blended Hypso with Shaded Relief and Water"
+                WMS_ABSTRACT "Cross Blended Hypso with Shaded Relief and Water. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_HYP_HR_SR_W_DR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/HYP_HR_SR_W_DR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Cross Blended Hypso with Shaded Relief, Water, and Drainages"
+                WMS_ABSTRACT "Cross Blended Hypso with Shaded Relief, Water, and Drainages. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE1_HR_LC
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth I"
+                WMS_ABSTRACT "Natural Earth I. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE1_HR_LC_SR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC_SR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth I with Shaded Relief"
+                WMS_ABSTRACT "Natural Earth I with Shaded Relief. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE1_HR_LC_SR_W
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC_SR_W.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth I with Shaded Relief and Water"
+                WMS_ABSTRACT "Natural Earth I with Shaded Relief and Water.  The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE1_HR_LC_SR_W_DR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC_SR_W_DR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth I with Shaded Relief, Water, and Drainages"
+                WMS_ABSTRACT "The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE2_HR_LC
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth II"
+                WMS_ABSTRACT "Natural Earth II. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE2_HR_LC_SR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC_SR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth II with Shaded Relief"
+                WMS_ABSTRACT "Natural Earth II with Shaded Relief.  The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE2_HR_LC_SR_W
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC_SR_W.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth II with Shaded Relief and Water"
+                WMS_ABSTRACT "Natural Earth II with Shaded Relief and Water.  The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_NE2_HR_LC_SR_W_DR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC_SR_W_DR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Natural Earth II with Shaded Relief, Water, and Drainages"
+                WMS_ABSTRACT "Natural Earth II with Shaded Relief, Water, and Drainages.  The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_OB_LR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/OB_LR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Ocean Bottom"
+                WMS_ABSTRACT "Ocean Bottom. The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+LAYER
+        name natural_earth_SR_HR
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/custom_work/NaturalEarth/SR_HR.tif"
+        include "includes/projections/4326.include.map"
+        GROUP "Natural Earth"
+        METADATA 
+                WMS_TITLE "Shaded Relief Basic"
+                WMS_ABSTRACT "The data from this layer is from the Natural Earth website (http://www.naturalearthdata.com)."
+                "wms_group_title"       "Natural Earth"
+        END
+    END
+

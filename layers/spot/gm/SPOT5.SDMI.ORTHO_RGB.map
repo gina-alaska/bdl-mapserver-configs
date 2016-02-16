@@ -1,0 +1,14 @@
+LAYER
+  name 'ORTHO.RGB'
+  type raster
+  status on
+  OFFSITE 0 0 0
+
+  DATA "/hub/bdl/production/spot/temp/working/rgb.gm.vrt"
+
+  include 'projections/gm.proj.map'
+
+  GROUP 'ORTHO.RGB'
+
+  include 'layers/metadata/orth_rgb.include.map'
+END

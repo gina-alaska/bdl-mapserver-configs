@@ -1,0 +1,55 @@
+###############################
+# Shaded Relief DEM
+
+    LAYER
+        name "GINA.Bathymetry.rgb"
+        type raster
+        status on
+        OFFSITE 0 0 0
+
+        DATA "/hub/bdl/production/dem/gina/gina.bath.rgb.google.tif"
+
+	include "includes/projections/900913.include.map"
+
+        GROUP "GINA Bathymetry"
+
+        DEBUG ON
+
+        METADATA
+                WMS_TITLE "GINA.Bathymetry.rgb"
+                WMS_ABSTRACT "This layer is composed of topography and bathymetry data presented in a colorized form."
+                "wms_title"       "GINA.Bathymetry.rgb"
+        END
+
+    END
+
+
+    LAYER
+        name "GINA.Bathymetry.bw"
+        type raster
+        status on
+	OFFSITE 0 0 0
+
+	PROCESSING "BANDS=1"
+
+        DATA "/hub/bdl/production/dem/gina/gina.bath.rgb.google.tif"
+
+        include "includes/projections/900913.include.map"
+
+        GROUP "GINA Bathymetry"
+
+        DEBUG ON
+
+        METADATA
+                WMS_TITLE "GINA.Bathymetry.bw"
+                WMS_ABSTRACT "This layer is composed of topography and bathymetry data presented in a black and white form."
+                "wms_title"       "GINA.Bathymetry.bw"
+        END
+
+    END
+
+
+#******** END of dem
+###########################################################
+
+

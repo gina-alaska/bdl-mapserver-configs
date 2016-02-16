@@ -1,0 +1,94 @@
+# DRGS - with limits so stuff shows up at reasonable zoom levels..
+    LAYER
+        name drg_250k_shaded
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA "/hub/bdl/production/drg/250k/250k.shaded.geo.vrt"
+        include "includes/projections/4326.include.map"
+
+
+        GROUP "Hill Shaded DRG"
+
+        DEBUG ON
+
+        METADATA
+              WMS_TITLE "DRG 250k"
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:250k U.S. Geological Survey (USGS) standard series topographic maps.  A hillshade has been applied."
+                "wms_title"       "Hill Shaded DRG 1:250k"
+                "wms_group_title" "Hill Shaded DRG"
+        END
+
+    END
+
+
+
+    LAYER
+        name drg_63k_shaded
+        type raster
+        status on
+        OFFSITE 0 0 0
+
+        DATA "/hub/bdl/production/drg/63k/63k.shaded.geo.vrt"
+        include "includes/projections/4326.include.map"
+
+
+        GROUP "Hill Shaded DRG"
+
+        DEBUG ON
+        MAXSCALE 200000
+
+        METADATA
+              WMS_TITLE "DRG 63k"
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:63,360 U.S. Geological Survey (USGS) standard series topographic maps.  A hillshade has been applied."
+                "wms_title"       "Hill Shaded DRG 1:63k"
+                "wms_group_title" "Hill Shaded DRG"
+        END
+
+    END
+
+    LAYER
+        name drg_25k_shaded
+        type raster
+        status on
+        OFFSITE 0 0 0
+
+	DATA "/hub/bdl/production/drg/25k/25k.shaded.geo.vrt"
+        include "includes/projections/4326.include.map"
+
+        GROUP "Hill Shaded DRG"
+
+        DEBUG ON
+        MAXSCALE 40000
+
+        METADATA
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:25k U.S. Geological Survey (USGS) standard series topographic maps.  A hillshade has been applied."
+                "wms_title"       "Hill Shaded DRG 1:25k"
+                "wms_group_title" "Hill Shaded DRG"
+        END
+
+    END
+
+    LAYER
+        name drg_24k_shaded
+        type raster
+        status on
+        OFFSITE 0 0 0
+
+        DATA "/hub/bdl/production/drg/24k/24k.shaded.geo.tif"
+        include "includes/projections/4326.include.map"
+
+        GROUP "Hill Shaded DRG"
+
+        DEBUG ON
+        MAXSCALE 24000
+
+        METADATA
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:24k U.S. Geological Survey (USGS) standard series topographic maps. A hillshade has been applied."
+              "wms_title"       "Hill Shaded DRG 1:24k"
+              "wms_group_title" "Hill Shaded DRG"
+        END
+
+    END
+
+

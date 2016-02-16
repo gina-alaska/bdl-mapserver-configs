@@ -1,0 +1,15 @@
+LAYER
+  name 'ORTHO_PAN'
+  type raster
+  status on
+  OFFSITE 0 0 0
+
+  DATA "/hub/bdl/production/spot/temp/working/pan.gm.vrt"
+
+  include 'projections/gm.proj.map'
+
+  GROUP 'ORTHO.PAN'
+
+  include 'layers/metadata/orth_pan.include.map'
+END
+

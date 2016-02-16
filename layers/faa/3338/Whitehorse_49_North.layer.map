@@ -1,0 +1,17 @@
+LAYER
+  NAME "Whitehorse_49_North"
+  STATUS on
+  DATA "/hub/bdl/production/charts/faa/Whitehorse_49_North.aa.tif"
+  TYPE RASTER
+  OFFSITE 0 0 0 
+  PROCESSING "RESAMPLE=BILINEAR"
+  DEBUG on
+  include "includes/projections/alaska_albers_nad83.include.map"
+  GROUP "FAA Charts"
+  METADATA
+       "wms_title"     	"Whitehorse 49 North"
+       WMS_ABSTRACT    	"FAA Chart Whitehorse 49 North"
+	"wms_group_abstract" 	"FAA Charts including map collars. For more information please see http://aeronav.faa.gov/index.asp?xml=aeronav/applications/VFR/chartlist_sect .  This services is NOT FOR NAVIGATION!"
+ 	"wms_group_title" 	"FAA Charts"
+  END
+END

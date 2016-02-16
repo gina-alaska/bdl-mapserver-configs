@@ -1,0 +1,17 @@
+LAYER
+  NAME "Cold_Bay_42"
+  STATUS on
+  DATA "/hub/bdl/production/charts/faa/Cold_Bay_42.aa.tif"
+  TYPE RASTER
+  OFFSITE 0 0 0 
+  DEBUG on
+  PROCESSING "RESAMPLE=BILINEAR"
+  include "includes/projections/alaska_albers_nad83.include.map"
+  GROUP "FAA Charts"
+  METADATA
+       "wms_title"     	"Cold Bay 42"
+       WMS_ABSTRACT    	"FAA Chart Cold Bay 42"
+	"wms_group_abstract" 	"FAA Charts including map collars. For more information please see http://aeronav.faa.gov/index.asp?xml=aeronav/applications/VFR/chartlist_sect .  This services is NOT FOR NAVIGATION!"
+ 	"wms_group_title" 	"FAA Charts"
+  END
+END

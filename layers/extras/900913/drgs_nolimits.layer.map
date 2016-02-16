@@ -1,0 +1,142 @@
+# DRGS - with limits so stuff shows up at reasonable zoom levels..
+    LAYER
+        name can_drg_250k_no_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA "/hub/bdl/production/drg/canmatrix_250k/canmatrix_250k.google.vrt"
+	
+        include "includes/projections/900913.include.map"
+
+  	GROUP "DRG_WITHOUT_SCALE_LIMITS"
+
+        DEBUG ON
+
+        METADATA
+              WMS_ABSTRACT "This layer contains scanned topographic maps of Canada from the National Topographic Series 1:250,000 scale paper mapspublished by Natural Resources Canada. "
+                "wms_title"       "Ca Topos 1:250k"
+                "wms_group_title" "DRG_WITHOUT_SCALE_LIMITS"
+
+        END
+
+    END
+
+
+
+    LAYER
+        name drg_2500k_no_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA "/hub/bdl/production/drg/250k/250k.google.tif"
+
+        include "includes/projections/900913.include.map"
+
+	GROUP "DRG_WITHOUT_SCALE_LIMITS"
+
+        DEBUG ON
+
+        METADATA
+              WMS_TITLE "DRG 250k"
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:2500k U.S. Geological Survey (USGS) standard series topographic maps. "
+                "wms_title"       "DRG 1:2500k"
+                "wms_group_title" "DRG_WITHOUT_SCALE_LIMITS"
+
+        END
+
+        MINSCALE 2500000
+    END
+
+    LAYER
+        name drg_250k_no_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA "/hub/bdl/production/drg/250k/250k.google.tif"
+        include "includes/projections/900913.include.map"
+
+
+	GROUP "DRG_WITHOUT_SCALE_LIMITS"
+
+        DEBUG ON
+
+        METADATA
+              WMS_TITLE "DRG 250k"
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:250k U.S. Geological Survey (USGS) standard series topographic maps. "
+                "wms_title"       "DRG 1:250k"
+                "wms_group_title" "DRG_WITHOUT_SCALE_LIMITS"
+
+        END
+
+    END
+
+
+
+    LAYER
+        name drg_63k_no_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+
+        DATA "/hub/bdl/production/drg/63k/63k.google.vrt"
+        include "includes/projections/900913.include.map"
+
+	GROUP "DRG_WITHOUT_SCALE_LIMITS"
+
+        DEBUG ON
+
+        METADATA
+              WMS_TITLE "DRG 63k"
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:63,360 U.S. Geological Survey (USGS) standard series topographic maps. "
+                "wms_title"       "DRG 1:63k"
+                "wms_group_title" "DRG_WITHOUT_SCALE_LIMITS"
+
+        END
+
+    END
+
+    LAYER
+        name drg_25k_no_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+
+	DATA "/hub/bdl/production/drg/25k/25k.google.vrt"
+        include "includes/projections/900913.include.map"
+
+	GROUP "DRG_WITHOUT_SCALE_LIMITS"
+
+        DEBUG ON
+
+        METADATA
+              WMS_TITLE "DRG 25k"
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:25k U.S. Geological Survey (USGS) standard series topographic maps. "
+                "wms_title"       "DRG 1:25k"
+                "wms_group_title" "DRG_WITHOUT_SCALE_LIMITS"
+        END
+
+    END
+
+    LAYER
+        name drg_24k_no_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+
+        DATA "/hub/bdl/production/drg/24k/24k.google.tif"
+        include "includes/projections/900913.include.map"
+
+	GROUP "DRG_WITHOUT_SCALE_LIMITS"
+
+        DEBUG ON
+
+        METADATA
+              WMS_TITLE "DRG 24k"
+              WMS_ABSTRACT "This layer includes Digital Raster Graphics (DRG) maps, composed of scanned images of the 1:24k U.S. Geological Survey (USGS) standard series topographic maps. "
+                "wms_title"       "DRG 1:24k"
+                "wms_group_title" "DRG_WITHOUT_SCALE_LIMITS"
+        END
+
+    END
+
+

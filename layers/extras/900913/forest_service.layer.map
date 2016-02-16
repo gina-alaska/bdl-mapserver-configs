@@ -1,0 +1,42 @@
+    LAYER
+        name  forest_service_tongas
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA "/hub/bdl/production/drg/forest_service/tongass/tongas.gm.tif"
+	#include "includes/projections/900913.include.map"
+	include "includes/projections/3857.include.map"
+
+
+        GROUP "Forest Services Topos"
+
+        DEBUG ON
+
+        METADATA
+		WMS_ABSTRACT "This layer contains topographic maps provided by the USDA Forest Service. For more information please see http://fsgeodata.fs.fed.us/rastergateway/alaska/ "
+                "wms_title"       "Tongas"
+                "wms_group_title" "Forest Services Topos"
+        END
+
+    END
+
+    LAYER
+        name  forest_service_chugach
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA "/hub/bdl/production/drg/forest_service/chugach/chugach.aa.tif"
+	#include "includes/projections/900913.include.map"
+	include "includes/projections/3857.include.map"
+
+        GROUP "Forest Services Topos"
+
+        DEBUG ON
+
+        METADATA
+              WMS_ABSTRACT "This layer contains topographic maps provided by the USDA Forest Service. For more information please see http://fsgeodata.fs.fed.us/rastergateway/alaska/ "
+                "wms_title"       "Chugach"
+                "wms_group_title" "Forest Services Topos"
+        END
+
+    END

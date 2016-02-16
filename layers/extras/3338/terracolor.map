@@ -1,0 +1,25 @@
+##################
+#  BDL Mid Res
+
+
+    LAYER
+        name terracolor
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/15_meter/3338/terracolor.aa.tif"
+
+	include "includes/projections/alaska_albers_nad83.include.map"
+
+        GROUP "TerraColor"
+        METADATA
+                WMS_TITLE "terracolor"
+                WMS_ABSTRACT "This contains a simulated true color Landsat mosiac provide by Earthstar Geographics LLC. It is intended to be viewed at scales greater than 28m per pixel.  Imagery copyright Earthstar Geographics (http://www.terracolor.net)."
+                "wms_group_title"       "TerraColor"
+        END
+
+    END
+
+#******** END of pseudo_color_landsat
+###########################################################
+

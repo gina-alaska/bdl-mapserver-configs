@@ -1,0 +1,17 @@
+#********************************************************************************************
+#******** Extras..
+        LAYER
+                NAME "Blue_Marble"
+                STATUS on
+                DATA "/hub/bdl/production/extras/blue_marble_bright.tif"
+                TYPE RASTER
+                DEBUG on
+		include "includes/projections/alaska_albers_nad83.epsg.include.map"
+
+                METADATA
+                        "wms_title"     "Blue_Marble"
+                        "wms_name"      "Blue_Marble"
+                        WMS_ABSTRACT    "Hand brightened version on the 2000 vintage NASA Blue Marble dataset."
+                END
+        END
+

@@ -1,0 +1,18 @@
+LAYER
+  NAME "Western_Aleutian_Islands_42_East"
+  STATUS on
+  DATA "/hub/bdl/production/charts/faa/Western_Aleutian_Islands_42_East.aa.tif"
+  TYPE RASTER
+  OFFSITE 0 0 0 
+  PROCESSING "RESAMPLE=BILINEAR"
+  DEBUG on
+  include "includes/projections/alaska_albers_nad83.include.map"
+
+  GROUP "FAA Charts"
+  METADATA
+       "wms_title"     	"Western Aleutian Islands 42 East"
+       WMS_ABSTRACT    	"FAA Chart Western Aleutian Islands 42 East"
+	"wms_group_abstract" 	"FAA Charts including map collars. For more information please see http://aeronav.faa.gov/index.asp?xml=aeronav/applications/VFR/chartlist_sect .  This services is NOT FOR NAVIGATION!"
+ 	"wms_group_title" 	"FAA Charts"
+  END
+END

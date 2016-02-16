@@ -1,0 +1,10 @@
+
+
+	GROUP "bdl_high_res"
+
+        METADATA
+                WMS_TITLE "High Resolution Natural Color (0.25-9 meter) (Overview)"
+                WMS_ABSTRACT "The bdl_high_res layer contains data from a variety of sources and is intended to be viewed at scales from 25m per pixel to 1m per pixel. Images courtesy of Digital Globe, USDA-NRCS, USDA-FS, USGS, BLM, NPS, FAA, Alaska DNR, DMVA, DCED, DOT&PF"
+                "wms_group_title"       "bdl_high_res"
+        END
+

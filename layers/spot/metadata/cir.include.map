@@ -1,0 +1,10 @@
+  WEB
+    METADATA
+      "wms_name"     "SPOT5.SDMI.ORTHO_CIR"
+      "wms_title"    "SPOT5.SDMI.ORTHO_CIR"
+      "wms_abstract" "TBD"
+      include "includes/defaults/wms_defaults.include.map"
+      "wms_onlineresource" "http://wms.alaskamapped.org/ortho/cir?"
+      "wms_enable_request" "*"
+    END
+  END

@@ -1,0 +1,103 @@
+LAYER
+    NAME '250,000_labels'
+    TYPE POLYGON
+    DUMP true
+    TEMPLATE fooOnlyForWMSGetFeatureInfo
+    DATA '/www/wms.proto/apps/data/dggs/250,000.shp'
+    METADATA
+      'ows_title' '250,000'
+    END
+
+    STATUS OFF
+    TRANSPARENCY 100
+    PROJECTION
+    'proj=aea'
+    'lat_1=55'
+    'lat_2=65'
+    'lat_0=50'
+    'lon_0=-154'
+    'x_0=0'
+    'y_0=0'
+    'ellps=GRS80'
+    'towgs84=0,0,0,0,0,0,0'
+    'units=m'
+    'no_defs'
+    END
+    MAXSCALE 2000000
+    MINSCALE 500000
+
+    LABELITEM 'NAME'
+    CLASS
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 14
+      COLOR 0 255 179
+      ANGLE FOLLOW
+      OFFSET -20 0
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION AUTO
+      POSITION lc
+      #FORCE true
+      ANTIALIAS true
+      PARTIALS false
+     END
+    END
+  END
+
+LAYER
+    NAME '250,000_labels_small'
+    TYPE POLYGON
+    DUMP true
+    TEMPLATE fooOnlyForWMSGetFeatureInfo
+    DATA '/www/wms.proto/apps/data/dggs/250,000.shp'
+    METADATA
+      'ows_title' '250,000,small'
+    END
+
+    STATUS OFF
+    TRANSPARENCY 100
+    PROJECTION
+    'proj=aea'
+    'lat_1=55'
+    'lat_2=65'
+    'lat_0=50'
+    'lon_0=-154'
+    'x_0=0'
+    'y_0=0'
+    'ellps=GRS80'
+    'towgs84=0,0,0,0,0,0,0'
+    'units=m'
+    'no_defs'
+    END
+    MAXSCALE 8000000
+    MINSCALE 2000000
+
+    LABELITEM 'SHORTNAME'
+    CLASS
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 14
+      COLOR 0 255 179
+      ANGLE FOLLOW
+      OFFSET -20 0
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION AUTO
+      POSITION lc
+      #FORCE true
+      ANTIALIAS true
+      PARTIALS false
+     END
+    END
+  END
+
+

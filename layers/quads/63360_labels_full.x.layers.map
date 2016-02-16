@@ -1,0 +1,30 @@
+  LAYER
+    NAME '63,360 -labels full a'
+    TYPE LINE
+    DATA '/www/wms.proto/apps/data/dggs/labels/63360_geo_x_lines.shp'
+    MAXSCALE 500000
+    STATUS ON
+    TRANSPARENCY 100
+    include "includes/projections/geo.include.map"
+    LABELITEM 'Label2'
+    
+    CLASS
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 12
+      COLOR 0 255 127
+      ANGLE FOLLOW
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION AUTO
+      PARTIALS FALSE
+      BUFFER 30
+      ANTIALIAS true
+      REPEATDISTANCE 300
+    END
+   END
+  END

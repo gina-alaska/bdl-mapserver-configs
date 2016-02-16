@@ -1,0 +1,133 @@
+  LAYER
+    NAME '63,360 -labels a'
+    TYPE LINE
+    DATA '/www/wms.proto/apps/data/dggs/labels/63360_geo_lines.shp'
+    MAXSCALE 1000000
+    MINSCALE 200000
+
+    STATUS ON
+    TRANSPARENCY 100
+    include "includes/projections/geo.include.map"
+    LABELITEM 'Label'
+    CLASSITEM "Class"
+    
+    CLASS
+     EXPRESSION 'ax'
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 12
+      COLOR 0 255 127
+      OFFSET 15 0
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION cc
+      #POSITION CC
+      ANTIALIAS true
+      PARTIALS FALSE
+    END
+   END
+  END
+
+  LAYER
+    NAME '63,360 -labels b'
+    TYPE LINE
+    DATA '/www/wms.proto/apps/data/dggs/labels/63360_geo_lines.shp'
+    MAXSCALE 1000000
+    MINSCALE 200000
+    STATUS ON
+    TRANSPARENCY 100
+    include "includes/projections/geo.include.map"
+    LABELITEM 'Label'
+    CLASSITEM "Class"
+
+    CLASS
+     EXPRESSION 'bx'
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 12
+      COLOR 0 255 127
+      OFFSET 0 15
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION cc
+      #POSITION CC
+      ANTIALIAS true
+      PARTIALS false
+    END
+   END
+  END
+LAYER
+    NAME '63,360 -labels cx'
+    TYPE LINE
+    DATA '/www/wms.proto/apps/data/dggs/labels/63360_geo_lines.shp'
+    MAXSCALE 1000000
+    MINSCALE 200000
+    STATUS ON
+    TRANSPARENCY 100
+    include "includes/projections/geo.include.map"
+    LABELITEM 'Label'
+    CLASSITEM "Class"
+
+    CLASS
+     EXPRESSION 'cx'
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 12
+      COLOR 0 255 127
+      OFFSET -15 0
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION cc
+      #POSITION CC
+      ANTIALIAS true
+      PARTIALS false
+    END
+   END
+
+
+  END
+
+LAYER
+    NAME '63,360 -labels d'
+    TYPE LINE
+    DATA '/www/wms.proto/apps/data/dggs/labels/63360_geo_lines.shp'
+    MAXSCALE 1000000
+    MINSCALE 200000
+    STATUS ON
+    TRANSPARENCY 100
+    include "includes/projections/geo.include.map"
+    LABELITEM 'Label'
+    CLASSITEM "Class"
+
+    CLASS
+     EXPRESSION 'd'
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 12
+      COLOR 0 255 127
+      OFFSET 0 -15
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION cc
+      #POSITION CC
+      ANTIALIAS true
+      PARTIALS false
+    END
+   END
+  END

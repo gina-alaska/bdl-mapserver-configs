@@ -1,0 +1,15 @@
+LAYER
+  name 'ORTHO.CIR'
+  type raster
+  DATA "/hub/bdl/production/spot/temp/working/cir.vrt"
+  status on
+  OFFSITE 0 0 0
+
+  include 'projections/aa.proj.map'
+
+  GROUP 'ORTHO.CIR'
+
+  include 'layers/spot/metadata/orth_cir.include.map'
+
+END
+

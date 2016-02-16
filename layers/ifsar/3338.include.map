@@ -1,0 +1,104 @@
+#IFSAR DEM WMS CONFIG FILE
+    LAYER
+        name "DSM Hillshade Color" 
+        type raster
+        status on
+        DATA "/hub/bdl/production/ifsar/dsm/SDMI.IFSAR.2010.DSM.HILLSHADE.RGB.tif"
+	PROJECTION
+		"init=epsg:3338"
+	END
+
+	include "defaults/layer_debug.include.map"
+
+       	GROUP "DSM" 
+	METADATA
+                WMS_TITLE "SDMI IFSAR DSM Color Hillshade"
+              	WMS_ABSTRACT "Tbd."
+               	"wms_group_title"       "DSM"
+        END
+
+    END
+
+
+    LAYER
+        name "DTM Hillshade Color"
+        type raster
+        status on
+        DATA "/hub/bdl/production/ifsar/dtm/SDMI.IFSAR.2010.DTM.HILLSHADE.RGB.tif"
+        PROJECTION
+                "init=epsg:3338"
+        END
+
+        include "defaults/layer_debug.include.map"
+
+        GROUP "DTM"
+        METADATA
+                WMS_TITLE "SDMI IFSAR DTM Color Hillshade"
+                WMS_ABSTRACT "Tbd."
+                "wms_group_title"       "DTM"
+        END
+
+    END
+
+
+    LAYER
+        name "DSM Hillshade BW"
+        type raster
+        status on
+        DATA "/hub/bdl/production/ifsar/dsm/SDMI.IFSAR.2010.DSM.HILLSHADE.BW.tif"
+        PROJECTION
+                "init=epsg:3338"
+        END
+
+        include "defaults/layer_debug.include.map"
+
+        GROUP "DSM"
+        METADATA
+                WMS_TITLE "SDMI IFSAR DSM Black and White Hillshade"
+                WMS_ABSTRACT "Tbd."
+                "wms_group_title"       "DSM"
+        END
+
+    END
+
+    LAYER
+        name  "DTM Hillshade BW"
+        type raster
+        status on
+        DATA "/hub/bdl/production/ifsar/dtm/SDMI.IFSAR.2010.DTM.HILLSHADE.BW.tif"
+        PROJECTION
+                "init=epsg:3338"
+        END
+
+        include "defaults/layer_debug.include.map"
+
+        GROUP "DTM"
+        METADATA
+                WMS_TITLE "SDMI IFSAR DTM Black and White Hillshade"
+                WMS_ABSTRACT "Tbd."
+                "wms_group_title"       "DTM"
+        END
+
+    END
+
+
+    LAYER
+        name  "ORI"
+        type raster
+        status on
+        DATA "/hub/bdl/production/ifsar/ori/FUGRO.tif"
+        PROJECTION
+                "init=epsg:3338"
+        END
+
+        include "defaults/layer_debug.include.map"
+
+        GROUP "ORI"
+        METADATA
+                WMS_TITLE "SDMI IFSAR ORI"
+                WMS_ABSTRACT "Tbd."
+                "wms_group_title"       "ORI"
+        END
+
+    END
+

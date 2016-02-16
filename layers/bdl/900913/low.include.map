@@ -1,0 +1,39 @@
+#  500 Meter layer stuff for 3572
+
+    LAYER
+        name bdl_low_full
+        type raster
+        status on
+        DATA "/hub/bdl/production/500_meter/900913_blue.tif"
+	#include "includes/projections/900913.include.map"
+	include "includes/projections/900913.epsg.include.map"
+
+        ##Note - this is for alaska mapper's across the dateline requests.
+        #PROCESSING "LOAD_WHOLE_IMAGE=YES"
+
+        #MINSCALE 2000000
+        MAXSCALE 30000000
+
+	#DEBUG 10
+	include "defaults/layer_debug.include.map"
+	include "defaults/bdl_low_full_metadata.include.map"
+    END
+
+
+    LAYER
+        name bdl_low_overview
+        type raster
+        status on
+
+	##Note - this is for alaska mapper's across the dateline requests.
+	#PROCESSING "LOAD_WHOLE_IMAGE=YES"
+        DATA "/hub/bdl/production/500_meter/900913_blue.tif"
+	#include "includes/projections/900913.include.map"
+	include "includes/projections/900913.epsg.include.map"
+
+	#DEBUG 10
+        MINSCALE 30000000
+        MAXSCALE 3000000000000000
+	include "defaults/layer_debug.include.map"
+        include "defaults/bdl_low_full_metadata.include.map"
+    END

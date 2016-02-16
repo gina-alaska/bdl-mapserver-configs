@@ -1,0 +1,60 @@
+   LAYER
+        name "google-spd100-2010"
+   	type raster
+ 		status on
+ 		OFFSITE 0 0 0
+ 		DATA "/hub/bdl/production/custom_work/wind/google/100m.colorized.tif"
+ 		GROUP "Wind - Google Maps"
+		include "includes/projections/3338.include.map"
+ 		DEBUG ON
+ 		METADATA
+ 			WMS_TITLE "2010-spd100"
+ 			"wms_group_title" "Wind - Google Maps"
+ 			WMS_ABSTRACT "TBD."
+ 		END
+ 	 END
+   LAYER
+        name "google-spd30-2010"
+   	type raster
+ 		status on
+ 		OFFSITE 0 0 0
+ 		DATA "/hub/bdl/production/custom_work/wind/google/30m.colorized.tif"
+ 		GROUP "Wind - Google Maps"
+ 		include "includes/projections/3338.include.map"
+ 		DEBUG ON
+ 		METADATA
+ 			WMS_TITLE "2010-spd30"
+ 			"wms_group_title" "Wind - Google Maps"
+ 			WMS_ABSTRACT "TBD."
+ 		END
+ 	 END
+   LAYER
+        name "google-spd50-2010"
+   	type raster
+ 		status on
+ 		OFFSITE 0 0 0
+ 		DATA "/hub/bdl/production/custom_work/wind/google/50m.colorized.tif"
+ 		GROUP "Wind - Google Maps"
+ 		include "includes/projections/3338.include.map"
+ 		DEBUG ON
+ 		METADATA
+ 			WMS_TITLE "2010-spd50"
+ 			"wms_group_title" "Wind - Google Maps"
+ 			WMS_ABSTRACT "TBD."
+ 		END
+ 	 END
+   LAYER
+        name "google-spd80-2010"
+   	type raster
+ 		status on
+ 		OFFSITE 0 0 0
+ 		DATA "/hub/bdl/production/custom_work/wind/google/80m.colorized.tif"
+ 		GROUP "Wind - Google Maps"
+		include "includes/projections/3338.include.map"
+ 		DEBUG ON
+ 		METADATA
+ 			WMS_TITLE "2010-spd80"
+ 			"wms_group_title" "Wind - Google Maps"
+ 			WMS_ABSTRACT "TBD."
+ 		END
+ 	 END

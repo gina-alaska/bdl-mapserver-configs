@@ -1,0 +1,32 @@
+LAYER
+    NAME '250,000_labels'
+    TYPE LINE
+    DATA '/www/wms.proto/apps/data/dggs/labels/250k_geo_x_lines.shp'
+    STATUS ON
+    TRANSPARENCY 100
+    include "includes/projections/geo.include.map"
+    MAXSCALE 2000000
+    MINSCALE 500000
+
+    LABELITEM 'Label'
+    CLASS
+     LABEL
+      FONT quad_label
+      TYPE truetype
+      SIZE 14
+      COLOR 0 255 179
+      ANGLE FOLLOW
+      STYLE
+        GEOMTRANSFORM 'labelpoly'
+        COLOR  100 100 100
+        OPACITY 50
+      END
+      POSITION AUTO
+      ANTIALIAS true
+      PARTIALS false
+      PRIORITY 5
+      BUFFER 30
+     END
+    END
+  END
+

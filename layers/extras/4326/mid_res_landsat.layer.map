@@ -1,0 +1,26 @@
+##################
+#  BDL Mid Res
+
+
+    LAYER
+        name pseudo_color_landsat
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA  "/hub/bdl/production/15_meter/landsat_pseudo.tif"
+
+	include "includes/projections/4326.include.map"
+
+        GROUP "Pseudo Color Landsat"
+        METADATA
+                WMS_TITLE "Mid Resolution Pseudo Color (15 meter)"
+                WMS_ABSTRACT "This layer is from NASAs Release 2 of the WMS Global Mosaic.  The source dataset is part of the NASA Scientific Data Purchase, and contains scenes acquired in 1999-2003. This is a pseudo-color dataset which has been pan sharpened (Uses IR and Visual bands, 542 mapping) and projected to Alaska Albers."
+                "wms_group_title"       "Pseudo Color Landsat"
+
+        END
+
+    END
+
+#******** END of pseudo_color_landsat
+###########################################################
+

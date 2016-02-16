@@ -1,0 +1,33 @@
+##################
+#  1 METER
+    LAYER
+        name bdl_high_res_full
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/hub/bdl/production/indexs/1m_full"
+        include "includes/projections/alaska_albers_nad83.include.map"
+
+        MAXSCALE 20000
+
+        include "defaults/layer_debug.include.map"
+        include "defaults/bdl_high_overview_metadata.include.map"
+    END
+
+    LAYER
+        name bdl_high_res_overview
+        type raster
+        status on
+        #OFFSITE 0 0 0
+        #DATA "/hub/bdl/production/1_meter/overviews/bdl_26904.vrt"
+        TILEINDEX "/hub/bdl/production/1_meter/generated_overviews/26904.shp"
+
+        include "includes/projections/26904.include.map"
+
+        MINSCALE 20000
+        MAXSCALE 5000000
+        include "defaults/layer_debug.include.map"
+        include "defaults/bdl_high_overview_metadata.include.map"
+    END
+#******** END of bdl_high_res
+#**************************************************************************************

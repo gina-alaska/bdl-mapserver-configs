@@ -1,0 +1,53 @@
+##################
+#  Landsat Pan
+    LAYER
+        name bdl_landsat_pan_full
+        type raster
+        status on
+        OFFSITE 0 0 0
+	#TILEINDEX "/hub/bdl/production/landsat_pan/4326.shp"
+	DATA "/hub/bdl/production/landsat_pan/4326.vrt"
+	include "includes/projections/4326.include.map"
+
+        GROUP "Landsat Pan"
+
+        DEBUG ON
+
+        MINSCALE 1
+        MAXSCALE 15000000
+
+        METADATA
+                 WMS_TITLE "Landsat Pan Detailed"
+                "wms_group_title" "Landsat Pan"
+                 WMS_ABSTRACT "TBD"
+        END
+    END
+
+    LAYER
+        name bdl_landsat_pan_overview
+        type raster
+        status on
+        OFFSITE 0 0 0
+        DATA "/hub/bdl/production/landsat_pan/4326.vrt"
+        include "includes/projections/4326.include.map"
+
+        GROUP "Landsat Pan"
+
+        DEBUG ON
+
+        MINSCALE  15000000
+        MAXSCALE  15000000000
+
+        METADATA
+                 WMS_TITLE "Landsat Pan Overview"
+                 WMS_ABSTRACT "TBD"
+                 "wms_group_title" "Landsat Pan"
+        END
+
+
+    END
+
+#********************************************************************************************
+#******** END of landsat BDL
+
+

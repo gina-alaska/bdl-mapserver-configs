@@ -1,0 +1,29 @@
+###############################
+# Shaded Relief DEM
+
+    LAYER
+        name shaded_relief_ned
+        type raster
+        status on
+        OFFSITE 255 255 255
+
+        DATA "/hub/bdl/production/dem/shaded/shaded_ned.tif"
+
+	include "includes/projections/alaska_albers_nad83.epsg.include.map"
+
+        GROUP "Shaded Relief NED"
+
+        DEBUG ON
+
+        METADATA
+                WMS_TITLE "Shaded Relief NED"
+                WMS_ABSTRACT "Shaded relief dataset derived from the National Elevation Dataset(NED). This dataset is suitable for use at scales greater than 62 meters per pixel."
+                "wms_title"       "shaded_relief_ned"
+        END
+
+    END
+
+#******** END of dem
+###########################################################
+
+

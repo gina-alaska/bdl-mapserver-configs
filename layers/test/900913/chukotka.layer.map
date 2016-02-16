@@ -1,0 +1,22 @@
+    #russina topos chukotka
+    LAYER
+        name chukotka_200k
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/hub/bdl/production/drg/world/russia/200k/chukotka/200k.google.shp"
+	#DATA  "/hub/bdl/production/drg/world/russia/200k/chukotka/200k.google.vrt"
+	
+	include "includes/projections/900913.include.map"
+
+        GROUP "World Topos"
+
+        DEBUG ON
+
+        METADATA
+              WMS_ABSTRACT "Topos of the chukotka area. TEST!"
+                "wms_title"       "Chukotka 200k"
+                "wms_group_title" "World Topos"
+        END
+
+    END

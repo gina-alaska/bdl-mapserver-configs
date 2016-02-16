@@ -1,0 +1,38 @@
+    	NAME ExtrasLayer
+    	STATUS ON
+    	SIZE 260 260
+
+# This is boilerplate stuff... not applicable
+    	IMAGETYPE png24
+    	IMAGECOLOR 0 0 0
+
+# Debug is on!
+   	DEBUG ON
+   	SHAPEPATH "."
+   	CONFIG "MS_ERRORFILE" "/dev/stderr"
+
+   	MAXSIZE 7000
+
+# Output formats - only important thing is png24 - 24bit pngs.
+
+	include "includes/defaults/output_formats.agg.include.map"
+
+### Not used for wms based stuff..
+	include "includes/projections/4326.include.map"
+
+	EXTENT -180.0 -90.0 180.0 90.0
+
+	WEB
+		METADATA
+                	"wms_title"             "BDL WMS Extras"
+                	"wms_name"              "BDL WMS Extras"
+                	"wms_abstract"          "A WMS-compliant map server provided by the Alaska Mapped program (http://www.alaskamapped.org) and UAF-GINA (http://www.gina.alaska.edu)."
+		include "includes/defaults/wms_defaults.include.map"
+                "wms_onlineresource"    "http://wms.alaskamapped.org/extras?"
+		##"wms_onlineresource"    "http://dib.gina.alaska.edu/extras?"
+                "ows_schemas_location" "http://wms.alaskamapped.org/schemas"
+        END
+
+    END
+
+

@@ -1,0 +1,17 @@
+LAYER
+  NAME "Dutch_Harbor_42_North"
+  STATUS on
+  DATA "/hub/bdl/production/charts/faa/Dutch_Harbor_42_North.aa.tif"
+  TYPE RASTER
+  OFFSITE 0 0 0 
+  DEBUG on
+  PROCESSING "RESAMPLE=BILINEAR"
+  include "includes/projections/alaska_albers_nad83.include.map"
+  GROUP "FAA Charts"
+  METADATA
+       "wms_title"     	"Dutch Harbor 42 North"
+       WMS_ABSTRACT    	"FAA Chart Dutch Harbor 42 North"
+	"wms_group_abstract" 	"FAA Charts including map collars. For more information please see http://aeronav.faa.gov/index.asp?xml=aeronav/applications/VFR/chartlist_sect .  This services is NOT FOR NAVIGATION!"
+ 	"wms_group_title" 	"FAA Charts"
+  END
+END
