@@ -47,7 +47,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_1000_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_1000_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -78,7 +78,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_485_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_485_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -109,7 +109,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_350_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_350_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -140,7 +140,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_210_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_210_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -171,7 +171,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_155_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_155_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -202,7 +202,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_150_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_150_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -233,7 +233,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_140_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_140_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -264,7 +264,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_120_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_120_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -295,7 +295,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_110_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_110_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -326,7 +326,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_100_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_100_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -357,7 +357,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_95_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_95_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -388,7 +388,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_85_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_85_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -419,7 +419,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_80_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_80_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -450,7 +450,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_70_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_70_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -481,7 +481,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_50_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_50_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -512,7 +512,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_40_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_40_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -543,7 +543,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_35_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_35_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -574,7 +574,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_30_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_30_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -605,7 +605,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_20_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_20_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -636,7 +636,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_15_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_15_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -667,7 +667,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_10_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_10_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -698,7 +698,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_5_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_5_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -729,7 +729,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_1_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_1_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -760,7 +760,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/hub/bdl/production/charts/grouped/indexs/noaa_chart_0.5_meter.shp"
+        TILEINDEX "/ogc/bdl/charts/grouped/indexs/noaa_chart_0.5_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION

@@ -65,7 +65,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/hub/bdl/production/dem/high_res/katalla.tif"
+      DATA "/ogc/bdl/dem/high_res/katalla.tif"
       PROJECTION
         "init=epsg:102006"
       END
