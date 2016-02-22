@@ -7,7 +7,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/15_meter/landsat_pseudo_aa.tif"
+        DATA  "/ogc/bdl/15_meter/landsat_pseudo_aa.tif"
 
 	include "includes/projections/alaska_albers_nad83.include.map"
 

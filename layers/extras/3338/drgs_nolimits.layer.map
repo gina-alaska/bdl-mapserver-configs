@@ -4,7 +4,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/canmatrix_250k/canmatrix_250k_aa.vrt"
+        DATA "/ogc/bdl/drg/canmatrix_250k/canmatrix_250k_aa.vrt"
 	
 	include "includes/projections/alaska_albers_nad83.include.map"
 
@@ -28,7 +28,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/250k/250k.aa.tif"
+        DATA "/ogc/bdl/drg/250k/250k.aa.tif"
 
 	include "includes/projections/alaska_albers_nad83.include.map"
 
@@ -52,7 +52,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/250k/250k.aa.tif"
+        DATA "/ogc/bdl/drg/250k/250k.aa.tif"
         include "includes/projections/alaska_albers_nad83.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"
@@ -77,7 +77,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/hub/bdl/production/drg/63k/63k.aa.vrt"
+        DATA "/ogc/bdl/drg/63k/63k.aa.vrt"
         include "includes/projections/alaska_albers_nad83.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"
@@ -100,7 +100,7 @@
         status on
         OFFSITE 0 0 0
 
-	DATA "/hub/bdl/production/drg/25k/25k.aa.vrt"
+	DATA "/ogc/bdl/drg/25k/25k.aa.vrt"
         include "includes/projections/alaska_albers_nad83.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"
@@ -122,7 +122,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/hub/bdl/production/drg/24k/24k.aa.tif"
+        DATA "/ogc/bdl/drg/24k/24k.aa.tif"
         include "includes/projections/alaska_albers_nad83.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"

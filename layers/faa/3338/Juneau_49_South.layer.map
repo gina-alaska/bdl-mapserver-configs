@@ -1,7 +1,7 @@
 LAYER
   NAME "Juneau_49_South"
   STATUS on
-  DATA "/hub/bdl/production/charts/faa/Juneau_49_South.aa.tif"
+  DATA "/ogc/bdl/charts/faa/Juneau_49_South.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   PROCESSING "RESAMPLE=BILINEAR"

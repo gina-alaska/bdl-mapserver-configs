@@ -3,7 +3,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/GRAY_HR_SR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -17,7 +17,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR_OB.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/GRAY_HR_SR_OB.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -31,7 +31,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR_OB_DR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/GRAY_HR_SR_OB_DR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -45,7 +45,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/GRAY_HR_SR_W.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/GRAY_HR_SR_W.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -61,7 +61,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/HYP_HR_SR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/HYP_HR_SR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -75,7 +75,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/HYP_HR_SR_W.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/HYP_HR_SR_W.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -89,7 +89,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/HYP_HR_SR_W_DR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/HYP_HR_SR_W_DR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -103,7 +103,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE1_HR_LC.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -117,7 +117,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC_SR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE1_HR_LC_SR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -131,7 +131,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC_SR_W.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE1_HR_LC_SR_W.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -145,7 +145,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE1_HR_LC_SR_W_DR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE1_HR_LC_SR_W_DR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -159,7 +159,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE2_HR_LC.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -173,7 +173,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC_SR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE2_HR_LC_SR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -187,7 +187,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC_SR_W.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE2_HR_LC_SR_W.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -201,7 +201,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/NE2_HR_LC_SR_W_DR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/NE2_HR_LC_SR_W_DR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -215,7 +215,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/OB_LR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/OB_LR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 
@@ -229,7 +229,7 @@ LAYER
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/hub/bdl/production/custom_work/NaturalEarth/SR_HR.3572.tif"
+        DATA  "/ogc/bdl/custom_work/NaturalEarth/SR_HR.3572.tif"
         include "includes/projections/3572.include.map"
         GROUP "Natural Earth"
         METADATA 

@@ -1,7 +1,7 @@
 LAYER
   NAME "Bethel_51_South"
   STATUS on
-  DATA "/hub/bdl/production/charts/faa/Bethel_51_South.aa.tif"
+  DATA "/ogc/bdl/charts/faa/Bethel_51_South.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   DEBUG on

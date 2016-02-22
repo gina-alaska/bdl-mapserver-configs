@@ -4,7 +4,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/canmatrix_250k/canmatrix_250k.google.vrt"
+        DATA "/ogc/bdl/drg/canmatrix_250k/canmatrix_250k.google.vrt"
 	
         include "includes/projections/900913.include.map"
 
@@ -28,7 +28,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/250k/250k.google.tif"
+        DATA "/ogc/bdl/drg/250k/250k.google.tif"
 
         include "includes/projections/900913.include.map"
 
@@ -52,7 +52,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/250k/250k.google.tif"
+        DATA "/ogc/bdl/drg/250k/250k.google.tif"
         include "includes/projections/900913.include.map"
 
 
@@ -78,7 +78,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/hub/bdl/production/drg/63k/63k.google.vrt"
+        DATA "/ogc/bdl/drg/63k/63k.google.vrt"
         include "includes/projections/900913.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"
@@ -101,7 +101,7 @@
         status on
         OFFSITE 0 0 0
 
-	DATA "/hub/bdl/production/drg/25k/25k.google.vrt"
+	DATA "/ogc/bdl/drg/25k/25k.google.vrt"
         include "includes/projections/900913.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"
@@ -123,7 +123,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/hub/bdl/production/drg/24k/24k.google.tif"
+        DATA "/ogc/bdl/drg/24k/24k.google.tif"
         include "includes/projections/900913.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"

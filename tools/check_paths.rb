@@ -7,7 +7,7 @@ ARGV.each do |fl|
   lines = File.readlines(fl)
   lines.each_with_index do |line, idx|
     dnline = line.downcase
-    next if !dnline.include?(' data ') && !dnline.include?(' tindex ')
+    next if dnline !~ /\A\s*data\s+/ && dnline !~ /\A\s*tindex\s+/
     # contains a data file
     path = line.split(/["']/)[1]
     unless path

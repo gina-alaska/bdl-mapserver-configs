@@ -1,7 +1,7 @@
 LAYER
   NAME "Ketchikan_49_North"
   STATUS on
-  DATA "/hub/bdl/production/charts/faa/Ketchikan_49_North.aa.tif"
+  DATA "/ogc/bdl/charts/faa/Ketchikan_49_North.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   DEBUG on

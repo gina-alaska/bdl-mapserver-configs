@@ -4,7 +4,7 @@
         name bdl_low_full
         type raster
         status on
-        DATA "/hub/bdl/production/500_meter/blue_marble_alaska_albers.tif"
+        DATA "/ogc/bdl/500_meter/blue_marble_alaska_albers.tif"
 	include "includes/projections/3338.include.map"
 
         #MINSCALE 2000000
@@ -19,7 +19,7 @@
         name bdl_low_overview
         type raster
         status on
-	DATA "/hub/bdl/production/500_meter/blue_marble_alaska_albers.tif"
+	DATA "/ogc/bdl/500_meter/blue_marble_alaska_albers.tif"
 	include "includes/projections/3338.include.map"
 
         MINSCALE 30000000

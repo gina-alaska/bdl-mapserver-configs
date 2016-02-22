@@ -3,7 +3,7 @@
         name "DSM Hillshade Color" 
         type raster
         status on
-        DATA "/hub/bdl/production/ifsar/dsm/SDMI.IFSAR.2010.DSM.HILLSHADE.RGB.tif"
+        DATA "/ogc/bdl/ifsar/dsm/SDMI.IFSAR.2010.DSM.HILLSHADE.RGB.tif"
 	PROJECTION
 		"init=epsg:3338"
 	END
@@ -24,7 +24,7 @@
         name "DTM Hillshade Color"
         type raster
         status on
-        DATA "/hub/bdl/production/ifsar/dtm/SDMI.IFSAR.2010.DTM.HILLSHADE.RGB.tif"
+        DATA "/ogc/bdl/ifsar/dtm/SDMI.IFSAR.2010.DTM.HILLSHADE.RGB.tif"
         PROJECTION
                 "init=epsg:3338"
         END
@@ -45,7 +45,7 @@
         name "DSM Hillshade BW"
         type raster
         status on
-        DATA "/hub/bdl/production/ifsar/dsm/SDMI.IFSAR.2010.DSM.HILLSHADE.BW.tif"
+        DATA "/ogc/bdl/ifsar/dsm/SDMI.IFSAR.2010.DSM.HILLSHADE.BW.tif"
         PROJECTION
                 "init=epsg:3338"
         END
@@ -65,7 +65,7 @@
         name  "DTM Hillshade BW"
         type raster
         status on
-        DATA "/hub/bdl/production/ifsar/dtm/SDMI.IFSAR.2010.DTM.HILLSHADE.BW.tif"
+        DATA "/ogc/bdl/ifsar/dtm/SDMI.IFSAR.2010.DTM.HILLSHADE.BW.tif"
         PROJECTION
                 "init=epsg:3338"
         END
@@ -86,7 +86,7 @@
         name  "ORI"
         type raster
         status on
-        DATA "/hub/bdl/production/ifsar/ori/FUGRO.tif"
+        DATA "/ogc/bdl/ifsar/ori/FUGRO.tif"
         PROJECTION
                 "init=epsg:3338"
         END

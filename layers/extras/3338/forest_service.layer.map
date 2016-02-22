@@ -3,7 +3,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/forest_service/tongass/tongas.aa.tif"
+        DATA "/ogc/bdl/drg/forest_service/tongass/tongas.aa.tif"
 	
 	include "includes/projections/alaska_albers_nad83.include.map"
 
@@ -24,7 +24,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/hub/bdl/production/drg/forest_service/chugach/chugach.aa.tif"
+        DATA "/ogc/bdl/drg/forest_service/chugach/chugach.aa.tif"
 
         include "includes/projections/alaska_albers_nad83.include.map"
 

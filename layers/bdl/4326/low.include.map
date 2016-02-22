@@ -4,7 +4,7 @@
         name bdl_low_full
         type raster
         status on
-        DATA "/hub/bdl/production/500_meter/blue_marble_4326.tif"
+        DATA "/ogc/bdl/500_meter/blue_marble_4326.tif"
 	#include "includes/projections/4326.include.map"
 	PROJECTION
 		"init=epsg:4326"
@@ -22,7 +22,7 @@
         name bdl_low_overview
         type raster
         status on
-        DATA "/hub/bdl/production/500_meter/blue_marble_4326.tif"
+        DATA "/ogc/bdl/500_meter/blue_marble_4326.tif"
 	#include "includes/projections/4326.include.map"
         PROJECTION
                 "init=epsg:4326"

@@ -1,7 +1,7 @@
 LAYER
   NAME "Kodiak_49_South"
   STATUS on
-  DATA "/hub/bdl/production/charts/faa/Kodiak_49_South.aa.tif"
+  DATA "/ogc/bdl/charts/faa/Kodiak_49_South.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   PROCESSING "RESAMPLE=BILINEAR"

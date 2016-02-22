@@ -1,7 +1,7 @@
 LAYER
   NAME "Point_Barrow_71_South"
   STATUS on
-  DATA "/hub/bdl/production/charts/faa/Point_Barrow_71_South.aa.tif"
+  DATA "/ogc/bdl/charts/faa/Point_Barrow_71_South.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   DEBUG on

@@ -6,7 +6,7 @@
         status on
         OFFSITE 0 0 0
         DEBUG ON
-        TILEINDEX "/hub/bdl/production/indexs/1m_full"
+        TILEINDEX "/ogc/bdl/indexs/1m_full"
         #include "includes/projections/alaska_albers_nad83.include.map"
 	PROJECTION
 		"init=epsg:3338"
@@ -23,9 +23,9 @@
         status on
         #OFFSITE 0 0 0
         DEBUG ON
-        #DATA "/hub/bdl/production/1_meter/overviews/bdl_4326.vrt"
-	#DATA "/hub/bdl/production/1_meter/generated_overviews/bdl_4326.vrt"
-        TILEINDEX "/hub/bdl/production/1_meter/generated_overviews/4326.shp"
+        #DATA "/ogc/bdl/1_meter/overviews/bdl_4326.vrt"
+	#DATA "/ogc/bdl/1_meter/generated_overviews/bdl_4326.vrt"
+        TILEINDEX "/ogc/bdl/1_meter/generated_overviews/4326.shp"
 
         #include "includes/projections/4326.include.map"
 	PROJECTION

@@ -1,7 +1,7 @@
 LAYER
   NAME "Cape_Lisburne_42_North"
   STATUS on
-  DATA "/hub/bdl/production/charts/faa/Cape_Lisburne_42_North.aa.tif"
+  DATA "/ogc/bdl/charts/faa/Cape_Lisburne_42_North.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   DEBUG on

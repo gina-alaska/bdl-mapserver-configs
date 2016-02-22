@@ -1,7 +1,7 @@
 LAYER
   NAME "Cold_Bay_42"
   STATUS on
-  DATA "/hub/bdl/production/charts/faa/Cold_Bay_42.aa.tif"
+  DATA "/ogc/bdl/charts/faa/Cold_Bay_42.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   DEBUG on
