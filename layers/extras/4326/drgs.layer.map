@@ -4,7 +4,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/drg/canmatrix_250k/canmatrix_250k_geo.vrt"
+        DATA "/ogc/maps/bdl/drg/canmatrix_250k/canmatrix_250k_geo.vrt"
 	
         include "includes/projections/4326.include.map"
 
@@ -27,7 +27,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/drg/250k/250k.geo.tif"
+        DATA "/ogc/maps/bdl/drg/250k/250k.geo.tif"
 
         include "includes/projections/4326.include.map"
 
@@ -53,8 +53,8 @@
         type raster
         status on
         OFFSITE 0 0 0
-        #DATA "/ogc/bdl/drg/250k/250k.geo.tif"
-	DATA "/ogc/bdl/drg/250k/250k.geo.vrt"
+        #DATA "/ogc/maps/bdl/drg/250k/250k.geo.tif"
+	DATA "/ogc/maps/bdl/drg/250k/250k.geo.vrt"
         include "includes/projections/4326.include.map"
 
         GROUP "DRG"
@@ -80,7 +80,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/bdl/drg/63k/63k.geo.vrt"
+        DATA "/ogc/maps/bdl/drg/63k/63k.geo.vrt"
         include "includes/projections/4326.include.map"
 
         GROUP "DRG"
@@ -103,7 +103,7 @@
         status on
         OFFSITE 0 0 0
 
-	DATA "/ogc/bdl/drg/25k/25k.geo.vrt"
+	DATA "/ogc/maps/bdl/drg/25k/25k.geo.vrt"
         include "includes/projections/4326.include.map"
 
         GROUP "DRG"
@@ -126,7 +126,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/bdl/drg/24k/24k.geo.tif"
+        DATA "/ogc/maps/bdl/drg/24k/24k.geo.tif"
         include "includes/projections/alaska_albers_nad83.epsg.include.map"
 
         GROUP "DRG"

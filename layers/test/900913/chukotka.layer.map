@@ -4,8 +4,8 @@
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/ogc/bdl/drg/world/russia/200k/chukotka/200k.google.shp"
-	#DATA  "/ogc/bdl/drg/world/russia/200k/chukotka/200k.google.vrt"
+        TILEINDEX "/ogc/maps/bdl/drg/world/russia/200k/chukotka/200k.google.shp"
+	#DATA  "/ogc/maps/bdl/drg/world/russia/200k/chukotka/200k.google.vrt"
 	
 	include "includes/projections/900913.include.map"
 

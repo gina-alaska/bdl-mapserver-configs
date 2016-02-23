@@ -3,7 +3,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/drg/forest_service/tongass/tongas.gm.tif"
+        DATA "/ogc/maps/bdl/drg/forest_service/tongass/tongas.gm.tif"
 	#include "includes/projections/900913.include.map"
 	include "includes/projections/3857.include.map"
 
@@ -25,7 +25,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/drg/forest_service/chugach/chugach.aa.tif"
+        DATA "/ogc/maps/bdl/drg/forest_service/chugach/chugach.aa.tif"
 	#include "includes/projections/900913.include.map"
 	include "includes/projections/3857.include.map"
 

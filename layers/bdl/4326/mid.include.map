@@ -5,7 +5,7 @@
         name bdl_mid_res_overview
         type raster
         status on
-        TILEINDEX "/ogc/bdl/15_meter/4326/tindex.shp"
+        TILEINDEX "/ogc/maps/bdl/15_meter/4326/tindex.shp"
 
 	#include "includes/projections/4326.include.map"
         PROJECTION
@@ -21,7 +21,7 @@
         name bdl_mid_res_full
         type raster
         status on
-        TILEINDEX "/ogc/bdl/15_meter/4326/tindex.shp"
+        TILEINDEX "/ogc/maps/bdl/15_meter/4326/tindex.shp"
 	#include "includes/projections/4326.include.map"
         PROJECTION
                 "init=epsg:4326"

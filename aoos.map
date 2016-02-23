@@ -83,7 +83,7 @@ END
         type raster
         status on
         OFFSITE 0 0 0 
-        DATA "/ogc/bdl/custom_work/aoos/AOOSbathymetricDEMv1.01.aa.tif"
+        DATA "/ogc/maps/bdl/custom_work/aoos/AOOSbathymetricDEMv1.01.aa.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -102,7 +102,7 @@ END
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/aoos/AOOSbathymetricDEMv1.01.geo.tif"
+        DATA "/ogc/maps/bdl/custom_work/aoos/AOOSbathymetricDEMv1.01.geo.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -121,7 +121,7 @@ END
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/aoos/AOOSbathymetricDEMv1.01.google.tif"
+        DATA "/ogc/maps/bdl/custom_work/aoos/AOOSbathymetricDEMv1.01.google.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION

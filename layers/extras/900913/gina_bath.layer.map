@@ -7,7 +7,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/bdl/dem/gina/gina.bath.rgb.google.tif"
+        DATA "/ogc/maps/bdl/dem/gina/gina.bath.rgb.google.tif"
 
 	include "includes/projections/900913.include.map"
 
@@ -32,7 +32,7 @@
 
 	PROCESSING "BANDS=1"
 
-        DATA "/ogc/bdl/dem/gina/gina.bath.rgb.google.tif"
+        DATA "/ogc/maps/bdl/dem/gina/gina.bath.rgb.google.tif"
 
         include "includes/projections/900913.include.map"
 

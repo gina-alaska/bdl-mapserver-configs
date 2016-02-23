@@ -75,7 +75,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/aa/pwr501.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/aa/pwr501.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -100,7 +100,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/aa/spd1001.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/aa/spd1001.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -125,7 +125,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/aa/spd301.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/aa/spd301.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -150,7 +150,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/aa/spd1001.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/aa/spd1001.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -175,7 +175,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/aa/spd301.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/aa/spd301.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -201,7 +201,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/updates/50m.colorized.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/updates/50m.colorized.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -224,7 +224,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/updates/30m.colorized.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/updates/30m.colorized.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -247,7 +247,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/updates/80m.colorized.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/updates/80m.colorized.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 
@@ -270,7 +270,7 @@ include "wind/google_maps.layers"
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/custom_work/wind/updates/100m.colorized.tif"
+        DATA "/ogc/maps/bdl/custom_work/wind/updates/100m.colorized.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
 

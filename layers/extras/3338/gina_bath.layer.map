@@ -7,7 +7,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/bdl/dem/gina/gina.bath.rgb.aa.tif"
+        DATA "/ogc/maps/bdl/dem/gina/gina.bath.rgb.aa.tif"
 
 	include "includes/projections/alaska_albers_nad83.include.map"
 
@@ -32,7 +32,7 @@
 
 	PROCESSING "BANDS=1"
 
-        DATA "/ogc/bdl/dem/gina/gina.bath.rgb.aa.tif"
+        DATA "/ogc/maps/bdl/dem/gina/gina.bath.rgb.aa.tif"
 
         include "includes/projections/alaska_albers_nad83.include.map"
 

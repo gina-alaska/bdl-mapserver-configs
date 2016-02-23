@@ -1,7 +1,7 @@
 LAYER
   NAME "Dawson_42_South"
   STATUS on
-  DATA "/ogc/bdl/charts/faa/Dawson_42_South.aa.tif"
+  DATA "/ogc/maps/bdl/charts/faa/Dawson_42_South.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   DEBUG on

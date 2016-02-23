@@ -3,7 +3,7 @@ LAYER
 	 type raster
 	 status on
 	 OFFSITE 0 0 0
-	 DATA "/ogc/bdl/test/13_35_00_695_t1.20130626.1948_ATM1_500_ATM4_ATM3_ATM1.alaska_albers.tif"
+	 DATA "/ogc/maps/bdl/test/13_35_00_695_t1.20130626.1948_ATM1_500_ATM4_ATM3_ATM1.alaska_albers.tif"
 	 PROJECTION
 		"proj=aea"
 		"lat_1=55"

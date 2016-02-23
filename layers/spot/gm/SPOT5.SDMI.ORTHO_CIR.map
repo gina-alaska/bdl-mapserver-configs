@@ -1,7 +1,7 @@
 LAYER
   name 'ORTHO.CIR'
   type raster
-  DATA "/ogc/bdl/spot/temp/working/cir.vrt"
+  DATA "/ogc/maps/bdl/spot/temp/working/cir.vrt"
   status on
   OFFSITE 0 0 0
 

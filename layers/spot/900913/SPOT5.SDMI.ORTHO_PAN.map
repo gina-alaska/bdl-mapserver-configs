@@ -4,7 +4,7 @@ LAYER
   status on
   OFFSITE 0 0 0
 
-  DATA "/ogc/bdl/spot/temp/working/pan.gm.vrt"
+  DATA "/ogc/maps/bdl/spot/temp/working/pan.gm.vrt"
 
   include 'projections/gm.proj.map'
 

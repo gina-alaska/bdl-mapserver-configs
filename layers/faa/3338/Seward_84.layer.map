@@ -1,7 +1,7 @@
 LAYER
   NAME "Seward_84"
   STATUS on
-  DATA "/ogc/bdl/charts/faa/Seward_84.aa.tif"
+  DATA "/ogc/maps/bdl/charts/faa/Seward_84.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   DEBUG on

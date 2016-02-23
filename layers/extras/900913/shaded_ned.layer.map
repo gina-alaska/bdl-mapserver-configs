@@ -7,7 +7,7 @@
         status on
         OFFSITE 255 255 255
 
-        DATA "/ogc/bdl/dem/shaded/shaded_ned.tif"
+        DATA "/ogc/maps/bdl/dem/shaded/shaded_ned.tif"
 
 	include "includes/projections/alaska_albers_nad83.epsg.include.map"
 

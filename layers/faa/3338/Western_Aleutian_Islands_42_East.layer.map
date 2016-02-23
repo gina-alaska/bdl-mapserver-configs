@@ -1,7 +1,7 @@
 LAYER
   NAME "Western_Aleutian_Islands_42_East"
   STATUS on
-  DATA "/ogc/bdl/charts/faa/Western_Aleutian_Islands_42_East.aa.tif"
+  DATA "/ogc/maps/bdl/charts/faa/Western_Aleutian_Islands_42_East.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   PROCESSING "RESAMPLE=BILINEAR"

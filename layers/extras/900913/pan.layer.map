@@ -5,8 +5,8 @@
         type raster
         status on
         OFFSITE 0 0 0
-	#TILEINDEX "/ogc/bdl/landsat_pan/4326.shp"
-	DATA "/ogc/bdl/landsat_pan/4326.vrt"
+	#TILEINDEX "/ogc/maps/bdl/landsat_pan/4326.shp"
+	DATA "/ogc/maps/bdl/landsat_pan/4326.vrt"
 	include "includes/projections/4326.include.map"
 
         GROUP "Landsat Pan"
@@ -28,7 +28,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/bdl/landsat_pan/4326.vrt"
+        DATA "/ogc/maps/bdl/landsat_pan/4326.vrt"
         include "includes/projections/4326.include.map"
 
         GROUP "Landsat Pan"

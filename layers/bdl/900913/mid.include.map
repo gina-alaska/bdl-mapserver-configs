@@ -5,7 +5,7 @@
         name bdl_mid_res_overview
         type raster
         status on
-        DATA "/ogc/bdl/15_meter/terracolor_900913.vrt"
+        DATA "/ogc/maps/bdl/15_meter/terracolor_900913.vrt"
 
 	include "includes/projections/900913.include.map"
         MAXSCALE 3000000
@@ -18,7 +18,7 @@
         name bdl_mid_res_full
         type raster
         status on
-        DATA "/ogc/bdl/15_meter/terracolor_900913.vrt"
+        DATA "/ogc/maps/bdl/15_meter/terracolor_900913.vrt"
 
         include "includes/projections/900913.include.map"
         MAXSCALE 430000

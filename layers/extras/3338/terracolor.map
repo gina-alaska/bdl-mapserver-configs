@@ -7,7 +7,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/ogc/bdl/15_meter/3338/terracolor.aa.tif"
+        DATA  "/ogc/maps/bdl/15_meter/3338/terracolor.aa.tif"
 
 	include "includes/projections/alaska_albers_nad83.include.map"
 

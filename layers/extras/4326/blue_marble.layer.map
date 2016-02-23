@@ -3,7 +3,7 @@
         LAYER
                 NAME "Blue_Marble"
                 STATUS on
-                DATA "/ogc/bdl/extras/blue_marble_bright.tif"
+                DATA "/ogc/maps/bdl/extras/blue_marble_bright.tif"
                 TYPE RASTER
                 DEBUG on
 		include "includes/projections/alaska_albers_nad83.epsg.include.map"
