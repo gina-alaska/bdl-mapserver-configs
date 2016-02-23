@@ -1,0 +1,140 @@
+defaults:
+  prefix: map
+  omapserv: /opt/mapping_tools_builds/2014-03-19/bin/mapserv
+  oenvsh: /opt/mapping_tools_builds/2014-03-19/setup.sh
+  mapserv: /opt/mapping_tools_builds/2012-01-18/bin/mapserv.svn
+  envsh: /opt/mapping_tools_builds/2012-01-18/setup.sh
+  maps:
+    bluemarble: /www/wms/apps/mapserver/maps/bluemarble.map
+    megab: /www/wms/apps/mapserver/maps/megab.map
+    ortho_rgb:
+      default: /www/wms/apps/mapserver/maps/ortho_rgb.map
+      900913: /www/wms/apps/mapserver/maps/ortho_rgb_gm.map
+configs:
+  "/extras":
+    prefix: "extras"
+    url: "extras"
+    projections:
+      default: "/ogc/maps/bdl/extras_4326.map"
+      4326: "/ogc/maps/bdl/extras_4326.map"
+      900913: "/ogc/maps/bdl/extras_900913.map"
+      3338: "/ogc/maps/bdl/extras_3338.map"
+      102006: "/ogc/maps/bdl/extras_3338.map"
+      26732: "/ogc/maps/bdl/extras_3338.map"
+      26733: "/ogc/maps/bdl/extras_3338.map"
+      26734: "/ogc/maps/bdl/extras_3338.map"
+      26735: "/ogc/maps/bdl/extras_3338.map"
+      26736: "/ogc/maps/bdl/extras_3338.map"
+      26737: "/ogc/maps/bdl/extras_3338.map"
+      26738: "/ogc/maps/bdl/extras_3338.map"
+      26739: "/ogc/maps/bdl/extras_3338.map"
+      26740: "/ogc/maps/bdl/extras_3338.map"
+      26906: "/ogc/maps/bdl/extras_3338.map"
+      3572:  "/ogc/maps/bdl/extras_3572.map"
+  "/faa_charts":
+    prefix: "faa_charts"
+    url: "faa_charts"
+    projections:
+      default: "/ogc/maps/bdl/faa_charts.map"
+  "/charts":
+    prefix: "charts"
+    url: "charts"
+    projections:
+      default: "/ogc/maps/bdl/charts.map"
+  "/charts_nc":
+    prefix: "charts_nc"
+    url: "charts_nc"
+    projections:
+      default: "/ogc/maps/bdl/charts_nc.map"
+  "/bdl":
+    prefix: "bdl"
+    url: "bdl"
+    projections:
+      default: "/ogc/maps/bdl/bdl_4326.map"
+      4326: "/ogc/maps/bdl/bdl_4326.map"
+      900913: "/ogc/maps/bdl/bdl_900913.map"
+      3338: "/ogc/maps/bdl/bdl_3338.map"
+      102006: "/ogc/maps/bdl/bdl_3338.map"
+      26903: "/ogc/maps/bdl/bdl_26903.map"
+      26904: "/ogc/maps/bdl/bdl_26904.map"
+      26905: "/ogc/maps/bdl/bdl_26905.map"
+      26906: "/ogc/maps/bdl/bdl_26906.map"
+      26907: "/ogc/maps/bdl/bdl_26907.map"
+      26908: "/ogc/maps/bdl/bdl_26908.map"
+      900913: "/ogc/maps/bdl/bdl_900913.map"
+      102634: "/ogc/maps/bdl/bdl_102634.map"
+      32606: "/ogc/maps/bdl/bdl_32606.map"
+      3857: "/ogc/maps/bdl/bdl_900913.map"
+      3572: "/ogc/maps/bdl/bdl_3572.map"
+      3573: "/ogc/maps/bdl/bdl_3573.map"
+      3574: "/ogc/maps/bdl/bdl_3574.map"
+      3575: "/ogc/maps/bdl/bdl_3575.map"
+      3576: "/ogc/maps/bdl/bdl_3576.map"
+      26931: "/ogc/maps/bdl/bdl_3338.map"
+  "/ifsar":
+    prefix: "ifsar"
+    url: "ifsar"
+    projections:
+      default:  "/ogc/maps/bdl/ifsar_3338.map"
+  "/ortho/cir":
+    prefix: "ortho"
+    url: "ortho/cir"
+    projections:
+      default: "/ogc/maps/bdl/ortho_cir.map"
+      3338: "/ogc/maps/bdl/ortho_cir.map"
+  "/ortho/pan":
+    prefix: "ortho"
+    url: "ortho/pan"
+    projections:
+      default: "/ogc/maps/bdl/ortho_pan.map"
+      3338: "/ogc/maps/bdl/ortho_pan.map"
+  "/ortho/rgb":
+    prefix: "ortho"
+    url: "ortho/rgb"
+    projections:
+      default: "/ogc/maps/bdl/ortho_rgb.map"
+      3338: "/ogc/maps/bdl/ortho_rgb.map"
+  "/ortho":
+    prefix: "ortho"
+    url: "ortho"
+    projections:
+      default: "/ogc/maps/bdl/ortho.map"
+      3338: "/ogc/maps/bdl/ortho.map"
+  "/wcs":
+    mapserv: /opt/mapping_tools_builds/2009_01_29/bin/mapserv
+    envsh: /opt/mapping_tools_builds/2009_01_29/setup.sh
+    prefix: "wcs"
+    url: "wcs"
+    projections:
+      default: "/ogc/maps/bdl/wcs.map"
+  "/wcs_esri":
+    mapserv: /opt/mapping_tools_builds/2009_01_29/bin/mapserv
+    envsh: /opt/mapping_tools_builds/2009_01_29/setup.sh
+    prefix: "wcs_esri"
+    url: "wcs_esri"
+    projections:
+      default: "/ogc/maps/bdl/wcs_esri_error.map"
+  "/wind":
+    mapserv: /opt/mapping_tools_builds/2009_01_29/bin/mapserv
+    envsh: /opt/mapping_tools_builds/2009_01_29/setup.sh
+    prefix: "wind"
+    url: "wind"
+    projections:
+      default: "/ogc/maps/bdl/wind.map"
+  "/aoos":
+    mapserv: /opt/mapping_tools_builds/2009_01_29/bin/mapserv
+    envsh: /opt/mapping_tools_builds/2009_01_29/setup.sh
+    prefix: "aoos"
+    url: "aoos"
+    projections:
+      default: "/ogc/maps/bdl/aoos.map"
+  "/test":
+    mapserv: /opt/mapping_tools_builds/2012-01-18/bin/mapserv.svn
+    envsh: /opt/mapping_tools_builds/2012-01-18/setup.sh
+    prefix: "test"
+    url: "test"
+    projections:
+      default: "/ogc/maps/bdl/test_3338.map"
+      4326: "/ogc/maps/bdl/test_4326.map"
+      900913: "/ogc/maps/bdl/test_900913.map"
+      3338: "/ogc/maps/bdl/test_3338.map"
