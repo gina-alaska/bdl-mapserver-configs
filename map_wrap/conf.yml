@@ -1,15 +1,8 @@
 defaults:
-  prefix: map
-  omapserv: /opt/mapping_tools_builds/2014-03-19/bin/mapserv
-  oenvsh: /opt/mapping_tools_builds/2014-03-19/setup.sh
-  mapserv: /opt/mapping_tools_builds/2012-01-18/bin/mapserv.svn
-  envsh: /opt/mapping_tools_builds/2012-01-18/setup.sh
+  envsh: /opt/mapping_tools_builds/2015.11.04/setup.sh
+  mapserv: /opt/mapping_tools_builds/2015.11.04/bin/mapserv
   maps:
-    bluemarble: /www/wms/apps/mapserver/maps/bluemarble.map
-    megab: /www/wms/apps/mapserver/maps/megab.map
-    ortho_rgb:
-      default: /www/wms/apps/mapserver/maps/ortho_rgb.map
-      900913: /www/wms/apps/mapserver/maps/ortho_rgb_gm.map
+    unused: no_such_map 
 configs:
   "/extras":
     prefix: "extras"
