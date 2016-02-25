@@ -1,6 +1,7 @@
 defaults:
-  envsh: /opt/mapping_tools_builds/2015.11.04/setup.sh
-  mapserv: /opt/mapping_tools_builds/2015.11.04/bin/mapserv
+  envsh: /opt/mapping_tools_builds/2015.11.12/setup.sh
+  mapserv: /opt/mapping_tools_builds/2015.11.12/bin/mapserv
+  timeout: 3600
   maps:
     unused: no_such_map 
 configs:
