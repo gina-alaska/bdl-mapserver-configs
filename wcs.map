@@ -65,7 +65,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/ogc/maps/bdl/dem/ned/2_arc_sec/merged_aa.tif"
+      DATA "/ogc/data/bdl/dem/ned/2_arc_sec/merged_aa.tif"
       PROJECTION
         "init=epsg:102006"
       END
@@ -85,7 +85,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/ogc/maps/bdl/dem/ned/13_arc_sec/merged_aa.tif"
+      DATA "/ogc/data/bdl/dem/ned/13_arc_sec/merged_aa.tif"
       PROJECTION
         "init=epsg:102006"
       END
@@ -105,7 +105,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/ogc/maps/bdl/dem/high_res/katalla.tif"
+      DATA "/ogc/data/bdl/dem/high_res/katalla.tif"
       PROJECTION
         "init=epsg:102006"
       END
@@ -125,7 +125,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/ogc/maps/bdl/dem/srtm/srtm_alaska_albers.tif"
+      DATA "/ogc/data/bdl/dem/srtm/srtm_alaska_albers.tif"
       PROJECTION
         "init=epsg:102006"
       END
@@ -145,7 +145,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/ogc/maps/bdl/dem/aster/ak_gdem_aa.tif"
+      DATA "/ogc/data/bdl/dem/aster/ak_gdem_aa.tif"
       PROJECTION
         "init=epsg:102006"
       END
@@ -167,7 +167,7 @@ END
       #STATUS OFF
       #TYPE RASTER
       #DUMP TRUE
-      #DATA "/ogc/maps/bdl/dem/high_res/kenai-lidar-area-a.tif"
+      #DATA "/ogc/data/bdl/dem/high_res/kenai-lidar-area-a.tif"
       #PROJECTION
         #"init=epsg:102006"
       #END
@@ -187,7 +187,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/ogc/maps/bdl/dem/high_res/eagle_river.tif"
+      DATA "/ogc/data/bdl/dem/high_res/eagle_river.tif"
       PROJECTION
         "init=epsg:102006"
       END
@@ -207,7 +207,7 @@ END
       STATUS OFF
       TYPE RASTER
       DUMP TRUE
-      DATA "/ogc/maps/bdl/dem/high_res/SPOTDEM.CHUGACH_HRS_DEM.tif"
+      DATA "/ogc/data/bdl/dem/high_res/SPOTDEM.CHUGACH_HRS_DEM.tif"
       PROJECTION
         "init=epsg:102006"
       END
@@ -227,7 +227,7 @@ END
                 STATUS OFF
                 TYPE RASTER
                 DUMP TRUE
-                DATA "/ogc/maps/bdl/dem/high_res/kenai_area_a.tif"
+                DATA "/ogc/data/bdl/dem/high_res/kenai_area_a.tif"
                 PROJECTION
                   "init=epsg:102006"
                 END
@@ -246,7 +246,7 @@ END
                 STATUS OFF
                 TYPE RASTER
                 DUMP TRUE
-                DATA "/ogc/maps/bdl/dem/high_res/kenai_area_b.tif"
+                DATA "/ogc/data/bdl/dem/high_res/kenai_area_b.tif"
                 PROJECTION
                   "init=epsg:102006"
                 END
@@ -265,7 +265,7 @@ END
                 STATUS OFF
                 TYPE RASTER
                 DUMP TRUE
-                DATA "/ogc/maps/bdl/dem/high_res/kenai_area_c.tif"
+                DATA "/ogc/data/bdl/dem/high_res/kenai_area_c.tif"
                 PROJECTION
                   "init=epsg:102006"
                 END
@@ -284,7 +284,7 @@ END
                 STATUS OFF
                 TYPE RASTER
                 DUMP TRUE
-                DATA "/ogc/maps/bdl/dem/high_res/kenai_area_d.tif"
+                DATA "/ogc/data/bdl/dem/high_res/kenai_area_d.tif"
                 PROJECTION
                   "init=epsg:102006"
                 END
@@ -303,7 +303,7 @@ END
                 STATUS OFF
                 TYPE RASTER
                 DUMP TRUE
-                DATA "/ogc/maps/bdl/dem/high_res/kenai_area_e.tif"
+                DATA "/ogc/data/bdl/dem/high_res/kenai_area_e.tif"
                 PROJECTION
                   "init=epsg:102006"
                 END
@@ -324,7 +324,7 @@ END
                 STATUS OFF
                 TYPE RASTER
                 DUMP TRUE
-                DATA "/ogc/maps/bdl/dem/high_res/kenai-lidar-area-h.tif"
+                DATA "/ogc/data/bdl/dem/high_res/kenai-lidar-area-h.tif"
                 PROJECTION
                   "init=epsg:102006"
                 END
