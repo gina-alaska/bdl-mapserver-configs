@@ -13,7 +13,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-	include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+	include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -42,7 +42,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_485_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-	include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+	include "projections/alaska_albers_nad83.include.map"
 
 
         GROUP "Charts"
@@ -73,7 +73,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
 
 
@@ -105,7 +105,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -135,7 +135,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -165,7 +165,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -195,7 +195,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -225,7 +225,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -256,7 +256,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -286,7 +286,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -316,7 +316,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_95_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -346,7 +346,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -375,7 +375,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_80_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -405,7 +405,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -437,7 +437,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -466,7 +466,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_40_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -495,7 +495,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_35_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -524,7 +524,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_30_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -553,7 +553,7 @@
 
         PROCESSING "RESAMPLE=BILINEAR"
 
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -582,7 +582,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_15_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -612,7 +612,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_10_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -641,7 +641,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_5_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -671,7 +671,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_1_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
@@ -700,7 +700,7 @@
         TILEINDEX "/ogc/data/bdl/charts/grouped/indexs/noaa_chart_0.5_meter.shp"
 
         PROCESSING "RESAMPLE=BILINEAR"
-        include "/www/wms/apps/bdl/projections/alaska_albers_nad83.include.map"
+        include "projections/alaska_albers_nad83.include.map"
 
         GROUP "Charts"
 
