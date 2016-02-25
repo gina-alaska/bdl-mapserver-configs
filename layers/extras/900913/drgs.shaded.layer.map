@@ -4,7 +4,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/drg/250k/250k.shaded.google.vrt"
+        DATA "/ogc/data/bdl/drg/250k/250k.shaded.google.vrt"
         include "includes/projections/900913.include.map"
 
 
@@ -29,7 +29,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/maps/bdl/drg/63k/63k.shaded.google.vrt"
+        DATA "/ogc/data/bdl/drg/63k/63k.shaded.google.vrt"
         include "includes/projections/900913.include.map"
 
 
@@ -54,7 +54,7 @@
         status on
         OFFSITE 0 0 0
 
-	DATA "/ogc/maps/bdl/drg/25k/25k.shaded.google.vrt"
+	DATA "/ogc/data/bdl/drg/25k/25k.shaded.google.vrt"
         include "includes/projections/900913.include.map"
 
         GROUP "Hill Shaded DRG"
@@ -77,7 +77,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/maps/bdl/drg/24k/24k.shaded.google.tif"
+        DATA "/ogc/data/bdl/drg/24k/24k.shaded.google.tif"
         include "includes/projections/900913.include.map"
 
         GROUP "Hill Shaded DRG"

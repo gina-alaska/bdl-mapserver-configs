@@ -4,7 +4,7 @@
         name bdl_low_full
         type raster
         status on
-        DATA "/ogc/maps/bdl/500_meter/blue_marble_3576.tif"
+        DATA "/ogc/data/bdl/500_meter/blue_marble_3576.tif"
 	include "includes/projections/3576.include.map"
 
         #MINSCALE 2000000
@@ -19,7 +19,7 @@
         name bdl_low_overview
         type raster
         status on
-	DATA "/ogc/maps/bdl/500_meter/blue_marble_3576.tif"
+	DATA "/ogc/data/bdl/500_meter/blue_marble_3576.tif"
 	include "includes/projections/3576.include.map"
 
         MINSCALE 30000000

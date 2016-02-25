@@ -5,7 +5,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/ogc/maps/bdl/indexs/1m_full"
+        TILEINDEX "/ogc/data/bdl/indexs/1m_full"
         include "includes/projections/alaska_albers_nad83.include.map"
 
         MAXSCALE 20000
@@ -19,8 +19,8 @@
         type raster
         status on
         #OFFSITE 0 0 0
-        #DATA "/ogc/maps/bdl/1_meter/overviews/bdl_26904.vrt"
-        TILEINDEX "/ogc/maps/bdl/1_meter/generated_overviews/26904.shp"
+        #DATA "/ogc/data/bdl/1_meter/overviews/bdl_26904.vrt"
+        TILEINDEX "/ogc/data/bdl/1_meter/generated_overviews/26904.shp"
 
         include "includes/projections/26904.include.map"
 

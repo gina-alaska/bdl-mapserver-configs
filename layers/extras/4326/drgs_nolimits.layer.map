@@ -4,7 +4,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/drg/canmatrix_250k/canmatrix_250k.geo.vrt"
+        DATA "/ogc/data/bdl/drg/canmatrix_250k/canmatrix_250k.geo.vrt"
 	
         include "includes/projections/4326.include.map"
 
@@ -28,7 +28,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/drg/250k/250k.geo.tif"
+        DATA "/ogc/data/bdl/drg/250k/250k.geo.tif"
 
         include "includes/projections/4326.include.map"
 
@@ -52,7 +52,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/drg/250k/250k.geo.tif"
+        DATA "/ogc/data/bdl/drg/250k/250k.geo.tif"
         include "includes/projections/4326.include.map"
 
 
@@ -78,7 +78,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/maps/bdl/drg/63k/63k.geo.vrt"
+        DATA "/ogc/data/bdl/drg/63k/63k.geo.vrt"
         include "includes/projections/4326.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"
@@ -101,7 +101,7 @@
         status on
         OFFSITE 0 0 0
 
-	DATA "/ogc/maps/bdl/drg/25k/25k.geo.vrt"
+	DATA "/ogc/data/bdl/drg/25k/25k.geo.vrt"
         include "includes/projections/4326.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"
@@ -123,7 +123,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/maps/bdl/drg/24k/24k.geo.tif"
+        DATA "/ogc/data/bdl/drg/24k/24k.geo.tif"
         include "includes/projections/4326.include.map"
 
 	GROUP "DRG_WITHOUT_SCALE_LIMITS"

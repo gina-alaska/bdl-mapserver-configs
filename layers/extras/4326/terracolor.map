@@ -7,7 +7,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA  "/ogc/maps/bdl/15_meter/3338/terracolor.aa.tif"
+        DATA  "/ogc/data/bdl/15_meter/3338/terracolor.aa.tif"
 
 	PROJECTION
         	"init=epsg:3338"

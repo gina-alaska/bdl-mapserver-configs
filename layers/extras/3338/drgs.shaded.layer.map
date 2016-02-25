@@ -4,7 +4,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/drg/250k/250k.shaded.aa.tif"
+        DATA "/ogc/data/bdl/drg/250k/250k.shaded.aa.tif"
         include "includes/projections/alaska_albers_nad83.include.map"
 
 	#PROCESSING "OVERSAMPLE_RATIO=4.5"
@@ -31,7 +31,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/maps/bdl/drg/63k/63k.shaded.aa.vrt"
+        DATA "/ogc/data/bdl/drg/63k/63k.shaded.aa.vrt"
         include "includes/projections/alaska_albers_nad83.include.map"
         #PROCESSING="OVERSAMPLE_RATIO=2.5"
 
@@ -55,7 +55,7 @@
         status on
         OFFSITE 0 0 0
 
-	DATA "/ogc/maps/bdl/drg/25k/25k.shaded.aa.vrt"
+	DATA "/ogc/data/bdl/drg/25k/25k.shaded.aa.vrt"
         include "includes/projections/alaska_albers_nad83.include.map"
 
         GROUP "Hill Shaded DRG"
@@ -77,7 +77,7 @@
         status on
         OFFSITE 0 0 0
 
-        DATA "/ogc/maps/bdl/drg/24k/24k.shaded.aa.tif"
+        DATA "/ogc/data/bdl/drg/24k/24k.shaded.aa.tif"
         include "includes/projections/alaska_albers_nad83.include.map"
 
         GROUP "Hill Shaded DRG"

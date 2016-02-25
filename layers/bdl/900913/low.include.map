@@ -4,7 +4,7 @@
         name bdl_low_full
         type raster
         status on
-        DATA "/ogc/maps/bdl/500_meter/900913_blue.tif"
+        DATA "/ogc/data/bdl/500_meter/900913_blue.tif"
 	#include "includes/projections/900913.include.map"
 	include "includes/projections/900913.epsg.include.map"
 
@@ -27,7 +27,7 @@
 
 	##Note - this is for alaska mapper's across the dateline requests.
 	#PROCESSING "LOAD_WHOLE_IMAGE=YES"
-        DATA "/ogc/maps/bdl/500_meter/900913_blue.tif"
+        DATA "/ogc/data/bdl/500_meter/900913_blue.tif"
 	#include "includes/projections/900913.include.map"
 	include "includes/projections/900913.epsg.include.map"
 

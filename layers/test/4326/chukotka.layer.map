@@ -4,7 +4,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        TILEINDEX "/ogc/maps/bdl/drg/world/russia/200k/chukotka/200k.geo.shp"
+        TILEINDEX "/ogc/data/bdl/drg/world/russia/200k/chukotka/200k.geo.shp"
 	
 	include "includes/projections/4326.include.map"
 

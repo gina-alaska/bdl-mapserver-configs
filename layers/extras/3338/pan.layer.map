@@ -5,7 +5,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-	DATA "/ogc/maps/bdl/landsat_pan/3338.vrt"
+	DATA "/ogc/data/bdl/landsat_pan/3338.vrt"
 
 	include "includes/projections/alaska_albers_nad83.include.map"
 
@@ -28,7 +28,7 @@
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/landsat_pan/3338.vrt"
+        DATA "/ogc/data/bdl/landsat_pan/3338.vrt"
 
 	include "includes/projections/alaska_albers_nad83.include.map"
 

@@ -1,7 +1,7 @@
 LAYER
   NAME "Nome_50_South"
   STATUS on
-  DATA "/ogc/maps/bdl/charts/faa/Nome_50_South.aa.tif"
+  DATA "/ogc/data/bdl/charts/faa/Nome_50_South.aa.tif"
   TYPE RASTER
   OFFSITE 0 0 0 
   PROCESSING "RESAMPLE=BILINEAR"

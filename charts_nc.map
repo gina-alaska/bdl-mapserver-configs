@@ -46,7 +46,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16003/16003_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16003/16003_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -75,7 +75,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16004/16004_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16004/16004_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -104,7 +104,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16005/16005_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16005/16005_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -133,7 +133,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16006/16006_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16006/16006_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -162,7 +162,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16006/16006_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16006/16006_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -191,7 +191,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16006/16006_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16006/16006_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -220,7 +220,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16006/16006_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16006/16006_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -249,7 +249,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16011/16011_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16011/16011_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -278,7 +278,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16012/16012_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16012/16012_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -307,7 +307,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16013/16013_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16013/16013_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -336,7 +336,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16013/16013_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16013/16013_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -365,7 +365,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16016/16016_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16016/16016_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -394,7 +394,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16041/16041_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16041/16041_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -423,7 +423,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16042/16042_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16042/16042_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -452,7 +452,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16043/16043_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16043/16043_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -481,7 +481,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16043/16043_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16043/16043_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -510,7 +510,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16044/16044_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16044/16044_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -539,7 +539,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16045/16045_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16045/16045_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -568,7 +568,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16046/16046_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16046/16046_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -597,7 +597,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16061/16061_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16061/16061_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -626,7 +626,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16062/16062_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16062/16062_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -655,7 +655,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16063/16063_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16063/16063_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -684,7 +684,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16064/16064_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16064/16064_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -713,7 +713,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16065/16065_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16065/16065_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -742,7 +742,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16066/16066_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16066/16066_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -771,7 +771,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16067/16067_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16067/16067_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -800,7 +800,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16081/16081_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16081/16081_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -829,7 +829,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16082/16082_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16082/16082_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -858,7 +858,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16083/16083_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16083/16083_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -887,7 +887,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16084/16084_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16084/16084_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -916,7 +916,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16085/16085_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16085/16085_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -945,7 +945,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16086/16086_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16086/16086_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -974,7 +974,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16087/16087_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16087/16087_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1003,7 +1003,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16088/16088_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16088/16088_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1032,7 +1032,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16101/16101_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16101/16101_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1061,7 +1061,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16102/16102_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16102/16102_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1090,7 +1090,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16103/16103_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16103/16103_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1119,7 +1119,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16104/16104_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16104/16104_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1148,7 +1148,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16121/16121_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16121/16121_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1177,7 +1177,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16122/16122_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16122/16122_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1206,7 +1206,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16123/16123_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16123/16123_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1235,7 +1235,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16124/16124_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16124/16124_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1264,7 +1264,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16200/16200_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16200/16200_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1293,7 +1293,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16200/16200_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16200/16200_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1322,7 +1322,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16204/16204_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16204/16204_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1351,7 +1351,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16206/16206_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16206/16206_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1380,7 +1380,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16206/16206_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16206/16206_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1409,7 +1409,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16240/16240_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16240/16240_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1438,7 +1438,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16300/16300_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16300/16300_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1467,7 +1467,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16300/16300_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16300/16300_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1496,7 +1496,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16304/16304_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16304/16304_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1525,7 +1525,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16305/16305_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16305/16305_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1554,7 +1554,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16315/16315_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16315/16315_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1583,7 +1583,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16322/16322_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16322/16322_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1612,7 +1612,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16322/16322_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16322/16322_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1641,7 +1641,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16323/16323_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16323/16323_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1670,7 +1670,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16323/16323_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16323/16323_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1699,7 +1699,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16338/16338_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16338/16338_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1728,7 +1728,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16343/16343_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16343/16343_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1757,7 +1757,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16363/16363_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16363/16363_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1786,7 +1786,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16380/16380_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16380/16380_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1815,7 +1815,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16381/16381_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16381/16381_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1844,7 +1844,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16382/16382_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16382/16382_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1873,7 +1873,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16420/16420_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16420/16420_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1902,7 +1902,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16421/16421_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16421/16421_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1931,7 +1931,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16423/16423_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16423/16423_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1960,7 +1960,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16430/16430_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16430/16430_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -1989,7 +1989,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16431/16431_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16431/16431_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2018,7 +2018,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16432/16432_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16432/16432_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2047,7 +2047,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16433/16433_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16433/16433_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2076,7 +2076,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16434/16434_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16434/16434_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2105,7 +2105,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16435/16435_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16435/16435_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2134,7 +2134,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16436/16436_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16436/16436_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2163,7 +2163,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16436/16436_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16436/16436_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2192,7 +2192,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16440/16440_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16440/16440_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2221,7 +2221,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16441/16441_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16441/16441_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2250,7 +2250,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16442/16442_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16442/16442_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2279,7 +2279,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16446/16446_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16446/16446_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2308,7 +2308,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16450/16450_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16450/16450_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2337,7 +2337,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16460/16460_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16460/16460_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2366,7 +2366,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16462/16462_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16462/16462_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2395,7 +2395,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16463/16463_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16463/16463_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2424,7 +2424,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16465/16465_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16465/16465_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2453,7 +2453,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16467/16467_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16467/16467_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2482,7 +2482,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16471/16471_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16471/16471_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2511,7 +2511,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16471/16471_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16471/16471_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2540,7 +2540,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16471/16471_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16471/16471_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2569,7 +2569,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16471/16471_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16471/16471_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2598,7 +2598,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16474/16474_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16474/16474_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2627,7 +2627,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16474/16474_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16474/16474_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2656,7 +2656,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16474/16474_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16474/16474_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2685,7 +2685,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16475/16475_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16475/16475_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2714,7 +2714,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16476/16476_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16476/16476_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2743,7 +2743,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16477/16477_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16477/16477_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2772,7 +2772,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16478/16478_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16478/16478_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2801,7 +2801,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16478/16478_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16478/16478_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2830,7 +2830,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16480/16480_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16480/16480_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2859,7 +2859,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16480/16480_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16480/16480_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2888,7 +2888,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16480/16480_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16480/16480_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2917,7 +2917,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16484/16484_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16484/16484_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2946,7 +2946,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16486/16486_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16486/16486_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -2975,7 +2975,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16487/16487_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16487/16487_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3004,7 +3004,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16487/16487_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16487/16487_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3033,7 +3033,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16490/16490_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16490/16490_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3062,7 +3062,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16500/16500_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16500/16500_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3091,7 +3091,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16501/16501_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16501/16501_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3120,7 +3120,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16511/16511_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16511/16511_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3149,7 +3149,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16511/16511_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16511/16511_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3178,7 +3178,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16511/16511_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16511/16511_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3207,7 +3207,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16513/16513_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16513/16513_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3236,7 +3236,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16514/16514_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16514/16514_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3265,7 +3265,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16515/16515_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16515/16515_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3294,7 +3294,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16516/16516_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16516/16516_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3323,7 +3323,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16517/16517_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16517/16517_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3352,7 +3352,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16518/16518_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16518/16518_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3381,7 +3381,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16520/16520_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16520/16520_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3410,7 +3410,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16520/16520_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16520/16520_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3439,7 +3439,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16521/16521_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16521/16521_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3468,7 +3468,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16522/16522_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16522/16522_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3497,7 +3497,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16528/16528_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16528/16528_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3526,7 +3526,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16529/16529_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16529/16529_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3555,7 +3555,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16530/16530_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16530/16530_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3584,7 +3584,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16531/16531_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16531/16531_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3613,7 +3613,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16532/16532_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16532/16532_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3642,7 +3642,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16535/16535_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16535/16535_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3671,7 +3671,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16540/16540_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16540/16540_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3700,7 +3700,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16540/16540_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16540/16540_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3729,7 +3729,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16547/16547_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16547/16547_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3758,7 +3758,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16547/16547_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16547/16547_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3787,7 +3787,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16547/16547_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16547/16547_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3816,7 +3816,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16547/16547_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16547/16547_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3845,7 +3845,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16549/16549_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16549/16549_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3874,7 +3874,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16551/16551_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16551/16551_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3903,7 +3903,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16553/16553_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16553/16553_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3932,7 +3932,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16553/16553_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16553/16553_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3961,7 +3961,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16553/16553_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16553/16553_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -3990,7 +3990,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16556/16556_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16556/16556_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4019,7 +4019,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16556/16556_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16556/16556_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4048,7 +4048,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16561/16561_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16561/16561_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4077,7 +4077,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16566/16566_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16566/16566_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4106,7 +4106,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16566/16566_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16566/16566_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4135,7 +4135,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16570/16570_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16570/16570_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4164,7 +4164,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16575/16575_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16575/16575_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4193,7 +4193,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16575/16575_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16575/16575_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4222,7 +4222,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16576/16576_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16576/16576_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4251,7 +4251,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16580/16580_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16580/16580_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4280,7 +4280,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16580/16580_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16580/16580_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4309,7 +4309,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16587/16587_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16587/16587_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4338,7 +4338,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16590/16590_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16590/16590_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4367,7 +4367,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16591/16591_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16591/16591_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4396,7 +4396,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16592/16592_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16592/16592_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4425,7 +4425,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16592/16592_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16592/16592_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4454,7 +4454,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16593/16593_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16593/16593_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4483,7 +4483,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16594/16594_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16594/16594_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4512,7 +4512,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16594/16594_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16594/16594_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4541,7 +4541,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16594/16594_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16594/16594_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4570,7 +4570,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16595/16595_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16595/16595_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4599,7 +4599,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16595/16595_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16595/16595_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4628,7 +4628,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16596/16596_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16596/16596_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4657,7 +4657,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16597/16597_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16597/16597_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4686,7 +4686,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16598/16598_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16598/16598_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4715,7 +4715,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16599/16599_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16599/16599_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4744,7 +4744,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16599/16599_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16599/16599_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4773,7 +4773,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16599/16599_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16599/16599_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4802,7 +4802,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16601/16601_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16601/16601_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4831,7 +4831,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16603/16603_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16603/16603_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4860,7 +4860,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16604/16604_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16604/16604_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4889,7 +4889,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16605/16605_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16605/16605_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4918,7 +4918,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16606/16606_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16606/16606_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4947,7 +4947,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16608/16608_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16608/16608_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -4976,7 +4976,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16640/16640_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16640/16640_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5005,7 +5005,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16645/16645_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16645/16645_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5034,7 +5034,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16646/16646_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16646/16646_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5063,7 +5063,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16646/16646_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16646/16646_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5092,7 +5092,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16646/16646_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16646/16646_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5121,7 +5121,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16646/16646_5_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16646/16646_5_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5150,7 +5150,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16646/16646_6_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16646/16646_6_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5179,7 +5179,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16647/16647_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16647/16647_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5208,7 +5208,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16647/16647_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16647/16647_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5237,7 +5237,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16648/16648_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16648/16648_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5266,7 +5266,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16648/16648_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16648/16648_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5295,7 +5295,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16660/16660_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16660/16660_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5324,7 +5324,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16661/16661_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16661/16661_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5353,7 +5353,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16662/16662_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16662/16662_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5382,7 +5382,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16662/16662_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16662/16662_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5411,7 +5411,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16662/16662_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16662/16662_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5440,7 +5440,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16662/16662_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16662/16662_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5469,7 +5469,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16663/16663_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16663/16663_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5498,7 +5498,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16663/16663_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16663/16663_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5527,7 +5527,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16665/16665_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16665/16665_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5556,7 +5556,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16665/16665_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16665/16665_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5585,7 +5585,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16680/16680_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16680/16680_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5614,7 +5614,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16681/16681_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16681/16681_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5643,7 +5643,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16682/16682_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16682/16682_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5672,7 +5672,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16682/16682_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16682/16682_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5701,7 +5701,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16683/16683_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16683/16683_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5730,7 +5730,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16700/16700_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16700/16700_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5759,7 +5759,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16701/16701_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16701/16701_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5788,7 +5788,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16702/16702_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16702/16702_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5817,7 +5817,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16704/16704_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16704/16704_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5846,7 +5846,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16705/16705_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16705/16705_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5875,7 +5875,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16706/16706_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16706/16706_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5904,7 +5904,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16706/16706_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16706/16706_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5933,7 +5933,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16707/16707_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16707/16707_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5962,7 +5962,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16707/16707_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16707/16707_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -5991,7 +5991,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16707/16707_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16707/16707_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6020,7 +6020,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16708/16708_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16708/16708_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6049,7 +6049,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16708/16708_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16708/16708_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6078,7 +6078,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16709/16709_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16709/16709_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6107,7 +6107,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16710/16710_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16710/16710_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6136,7 +6136,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16711/16711_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16711/16711_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6165,7 +6165,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16711/16711_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16711/16711_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6194,7 +6194,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16712/16712_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16712/16712_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6223,7 +6223,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16713/16713_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16713/16713_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6252,7 +6252,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16723/16723_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16723/16723_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6281,7 +6281,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16760/16760_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16760/16760_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6310,7 +6310,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16761/16761_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16761/16761_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6339,7 +6339,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16761/16761_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16761/16761_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6368,7 +6368,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16762/16762_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16762/16762_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6397,7 +6397,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16762/16762_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16762/16762_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6426,7 +6426,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17300/17300_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17300/17300_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6455,7 +6455,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17300/17300_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17300/17300_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6484,7 +6484,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17300/17300_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17300/17300_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6513,7 +6513,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17300/17300_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17300/17300_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6542,7 +6542,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17301/17301_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17301/17301_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6571,7 +6571,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17302/17302_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17302/17302_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6600,7 +6600,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17302/17302_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17302/17302_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6629,7 +6629,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17302/17302_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17302/17302_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6658,7 +6658,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17303/17303_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17303/17303_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6687,7 +6687,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17303/17303_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17303/17303_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6716,7 +6716,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17303/17303_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17303/17303_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6745,7 +6745,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17311/17311_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17311/17311_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6774,7 +6774,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17311/17311_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17311/17311_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6803,7 +6803,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17312/17312_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17312/17312_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6832,7 +6832,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17313/17313_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17313/17313_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6861,7 +6861,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17314/17314_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17314/17314_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6890,7 +6890,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17315/17315_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17315/17315_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6919,7 +6919,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17315/17315_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17315/17315_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6948,7 +6948,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17316/17316_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17316/17316_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -6977,7 +6977,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17316/17316_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17316/17316_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7006,7 +7006,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17317/17317_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17317/17317_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7035,7 +7035,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17317/17317_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17317/17317_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7064,7 +7064,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17317/17317_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17317/17317_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7093,7 +7093,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17317/17317_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17317/17317_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7122,7 +7122,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17318/17318_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17318/17318_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7151,7 +7151,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17318/17318_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17318/17318_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7180,7 +7180,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17318/17318_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17318/17318_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7209,7 +7209,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17320/17320_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17320/17320_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7238,7 +7238,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17321/17321_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17321/17321_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7267,7 +7267,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17322/17322_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17322/17322_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7296,7 +7296,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17322/17322_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17322/17322_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7325,7 +7325,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17323/17323_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17323/17323_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7354,7 +7354,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17323/17323_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17323/17323_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7383,7 +7383,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17323/17323_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17323/17323_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7412,7 +7412,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17324/17324_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17324/17324_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7441,7 +7441,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17324/17324_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17324/17324_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7470,7 +7470,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17325/17325_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17325/17325_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7499,7 +7499,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17326/17326_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17326/17326_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7528,7 +7528,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17326/17326_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17326/17326_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7557,7 +7557,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17326/17326_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17326/17326_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7586,7 +7586,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17327/17327_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17327/17327_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7615,7 +7615,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17327/17327_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17327/17327_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7644,7 +7644,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17328/17328_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17328/17328_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7673,7 +7673,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17328/17328_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17328/17328_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7702,7 +7702,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17330/17330_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17330/17330_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7731,7 +7731,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17330/17330_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17330/17330_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7760,7 +7760,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17331/17331_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17331/17331_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7789,7 +7789,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17333/17333_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17333/17333_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7818,7 +7818,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17335/17335_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17335/17335_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7847,7 +7847,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17336/17336_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17336/17336_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7876,7 +7876,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17336/17336_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17336/17336_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7905,7 +7905,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17336/17336_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17336/17336_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7934,7 +7934,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17336/17336_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17336/17336_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7963,7 +7963,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17336/17336_5_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17336/17336_5_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -7992,7 +7992,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17337/17337_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17337/17337_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8021,7 +8021,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17337/17337_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17337/17337_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8050,7 +8050,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17337/17337_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17337/17337_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8079,7 +8079,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17338/17338_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17338/17338_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8108,7 +8108,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17341/17341_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17341/17341_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8137,7 +8137,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17360/17360_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17360/17360_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8166,7 +8166,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17360/17360_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17360/17360_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8195,7 +8195,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17360/17360_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17360/17360_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8224,7 +8224,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17362/17362_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17362/17362_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8253,7 +8253,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17363/17363_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17363/17363_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8282,7 +8282,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17363/17363_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17363/17363_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8311,7 +8311,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17365/17365_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17365/17365_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8340,7 +8340,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17365/17365_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17365/17365_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8369,7 +8369,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17367/17367_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17367/17367_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8398,7 +8398,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17368/17368_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17368/17368_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8427,7 +8427,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17368/17368_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17368/17368_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8456,7 +8456,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17368/17368_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17368/17368_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8485,7 +8485,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17368/17368_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17368/17368_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8514,7 +8514,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17368/17368_5_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17368/17368_5_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8543,7 +8543,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17370/17370_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17370/17370_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8572,7 +8572,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17370/17370_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17370/17370_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8601,7 +8601,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17372/17372_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17372/17372_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8630,7 +8630,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17372/17372_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17372/17372_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8659,7 +8659,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17372/17372_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17372/17372_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8688,7 +8688,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17372/17372_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17372/17372_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8717,7 +8717,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17375/17375_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17375/17375_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8746,7 +8746,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17375/17375_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17375/17375_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8775,7 +8775,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17375/17375_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17375/17375_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8804,7 +8804,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17376/17376_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17376/17376_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8833,7 +8833,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17377/17377_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17377/17377_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8862,7 +8862,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17378/17378_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17378/17378_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8891,7 +8891,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17379/17379_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17379/17379_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8920,7 +8920,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17381/17381_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17381/17381_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8949,7 +8949,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17382/17382_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17382/17382_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -8978,7 +8978,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17382/17382_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17382/17382_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9007,7 +9007,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17382/17382_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17382/17382_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9036,7 +9036,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17383/17383_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17383/17383_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9065,7 +9065,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17384/17384_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17384/17384_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9094,7 +9094,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17384/17384_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17384/17384_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9123,7 +9123,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17385/17385_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17385/17385_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9152,7 +9152,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17385/17385_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17385/17385_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9181,7 +9181,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17386/17386_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17386/17386_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9210,7 +9210,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17386/17386_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17386/17386_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9239,7 +9239,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17387/17387_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17387/17387_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9268,7 +9268,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17387/17387_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17387/17387_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9297,7 +9297,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17400/17400_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17400/17400_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9326,7 +9326,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17401/17401_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17401/17401_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9355,7 +9355,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17402/17402_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17402/17402_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9384,7 +9384,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17403/17403_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17403/17403_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9413,7 +9413,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17403/17403_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17403/17403_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9442,7 +9442,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17404/17404_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17404/17404_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9471,7 +9471,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17405/17405_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17405/17405_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9500,7 +9500,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17405/17405_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17405/17405_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9529,7 +9529,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17405/17405_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17405/17405_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9558,7 +9558,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17405/17405_5_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17405/17405_5_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9587,7 +9587,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17406/17406_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17406/17406_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9616,7 +9616,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17407/17407_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17407/17407_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9645,7 +9645,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17408/17408_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17408/17408_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9674,7 +9674,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17409/17409_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17409/17409_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9703,7 +9703,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17420/17420_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17420/17420_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9732,7 +9732,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17422/17422_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17422/17422_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9761,7 +9761,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17422/17422_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17422/17422_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9790,7 +9790,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17423/17423_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17423/17423_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9819,7 +9819,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17423/17423_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17423/17423_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9848,7 +9848,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17423/17423_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17423/17423_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9877,7 +9877,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17423/17423_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17423/17423_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9906,7 +9906,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17423/17423_5_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17423/17423_5_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9935,7 +9935,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17424/17424_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17424/17424_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9964,7 +9964,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17426/17426_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17426/17426_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -9993,7 +9993,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17426/17426_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17426/17426_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10022,7 +10022,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17426/17426_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17426/17426_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10051,7 +10051,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17426/17426_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17426/17426_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10080,7 +10080,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17427/17427_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17427/17427_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10109,7 +10109,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17428/17428_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17428/17428_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10138,7 +10138,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17428/17428_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17428/17428_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10167,7 +10167,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17428/17428_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17428/17428_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10196,7 +10196,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17428/17428_4_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17428/17428_4_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10225,7 +10225,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17428/17428_5_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17428/17428_5_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10254,7 +10254,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17430/17430_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17430/17430_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10283,7 +10283,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17430/17430_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17430/17430_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10312,7 +10312,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17431/17431_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17431/17431_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10341,7 +10341,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17431/17431_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17431/17431_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10370,7 +10370,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17432/17432_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17432/17432_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10399,7 +10399,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17433/17433_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17433/17433_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10428,7 +10428,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17434/17434_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17434/17434_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10457,7 +10457,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17434/17434_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17434/17434_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10486,7 +10486,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17434/17434_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17434/17434_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10515,7 +10515,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17435/17435_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17435/17435_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10544,7 +10544,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17435/17435_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17435/17435_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10573,7 +10573,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17436/17436_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17436/17436_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10602,7 +10602,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17436/17436_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17436/17436_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10631,7 +10631,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17436/17436_3_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17436/17436_3_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10660,7 +10660,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17437/17437_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17437/17437_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10689,7 +10689,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/17437/17437_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/17437/17437_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10718,7 +10718,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/18003/18003_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/18003/18003_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10747,7 +10747,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/18007/18007_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/18007/18007_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10776,7 +10776,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/18010/18010_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/18010/18010_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10805,7 +10805,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/18020/18020_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/18020/18020_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10834,7 +10834,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/18022/18022_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/18022/18022_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10863,7 +10863,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/500/500_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/500/500_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10892,7 +10892,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/501/501_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/501/501_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10921,7 +10921,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/50/50_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/50/50_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10950,7 +10950,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/50/50_2_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/50/50_2_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -10979,7 +10979,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/513/513_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/513/513_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -11008,7 +11008,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/514/514_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/514/514_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -11037,7 +11037,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/530/530_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/530/530_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -11066,7 +11066,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/531/531_1_alaska_albers.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/531/531_1_alaska_albers.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -11099,7 +11099,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16161/16161_1.aa.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16161/16161_1.aa.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION
@@ -11123,7 +11123,7 @@ MAP
         type raster
         status on
         OFFSITE 0 0 0
-        DATA "/ogc/maps/bdl/charts/unclipped/16161/16161_2.aa.tif"
+        DATA "/ogc/data/bdl/charts/unclipped/16161/16161_2.aa.tif"
 
         PROCESSING "RESAMPLE=BILINEAR"
         PROJECTION

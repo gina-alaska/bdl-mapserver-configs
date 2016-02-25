@@ -5,7 +5,7 @@
         name bdl_mid_res_overview
         type raster
         status on
-        TILEINDEX "/ogc/maps/bdl/15_meter/3573/tindex.shp"
+        TILEINDEX "/ogc/data/bdl/15_meter/3573/tindex.shp"
 
 	include "includes/projections/3573.include.map"
         MAXSCALE 3000000
@@ -18,7 +18,7 @@
         name bdl_mid_res_full
         type raster
         status on
-        TILEINDEX "/ogc/maps/bdl/15_meter/3573/tindex.shp"
+        TILEINDEX "/ogc/data/bdl/15_meter/3573/tindex.shp"
 	include "includes/projections/3573.include.map"
         MAXSCALE 430000
 	include "defaults/bdl_mid_full_metadata.include.map"
