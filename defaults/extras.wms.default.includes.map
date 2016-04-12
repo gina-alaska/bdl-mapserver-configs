@@ -28,8 +28,7 @@
                 	"wms_name"              "BDL WMS Extras"
                 	"wms_abstract"          "A WMS-compliant map server provided by the Alaska Mapped program (http://www.alaskamapped.org) and UAF-GINA (http://www.gina.alaska.edu)."
 		include "includes/defaults/wms_defaults.include.map"
-                "wms_onlineresource"    "http://wms.alaskamapped.org/extras?"
-		##"wms_onlineresource"    "http://dib.gina.alaska.edu/extras?"
+                "wms_onlineresource"    "http://wms.alaskamapped.org/gina/extras?"
                 "ows_schemas_location" "http://wms.alaskamapped.org/schemas"
         END
 
