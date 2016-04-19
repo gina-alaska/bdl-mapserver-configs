@@ -29,9 +29,7 @@
                 "wms_name"              "FAA Charts - Not For Navigation"
                 "wms_abstract"          "A WMS-compliant map server provided by the Alaska Mapped program (http://www.alaskamapped.org) and UAF-GINA (http://www.gina.alaska.edu) which contains the FAA charts. This service is NOT TO BE USED FOR NAVIGATION!"
                 include "includes/defaults/wms_defaults.include.map"
-                "wms_onlineresource"    "http://wms.alaskamapped.org/faa_charts?"
-		#"wms_onlineresource"    "http://dib.gina.alaska.edu/faa_charts?"
-                "ows_schemas_location" "http://wms.alaskamapped.org/schemas/"
+                "wms_onlineresource"    "http://wms.alaskamapped.org/gina/faa_charts?"
 		"wms_enable_request"    "*"
         END
     END
