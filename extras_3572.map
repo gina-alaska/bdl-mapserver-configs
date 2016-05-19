@@ -14,4 +14,5 @@ MAP
 	include "layers/extras/3338/terracolor.map"
 	include "layers/extras/3572/natural_earth.layer.map"
 	include "layers/extras/3338/forest_service.layer.map"
+	include "layers/extras/3572/world.topos.layer.map"
 END

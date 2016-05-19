@@ -1,0 +1,166 @@
+# World Topos
+    LAYER
+        name world_1m
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.1m.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos"
+
+	PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:1m Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:1M scale."
+              "wms_title"       "World 1:1M Topos"
+              "wms_group_title" "World Topos"
+        END
+
+    END
+    LAYER
+        name world_500k
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.500k.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos"
+        MAXSCALE 130000
+
+	PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:500k Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:500k scale."
+              "wms_title"       "World 1:500k Topos"
+              "wms_group_title" "World Topos"
+        END
+
+    END
+    LAYER
+        name world_200k
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.200k.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos"
+        MAXSCALE 60000
+
+        PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:200k Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:200k scale."
+              "wms_title"       "World 1:200k Topos"
+              "wms_group_title" "World Topos"
+        END
+    END
+    LAYER
+        name world_100k
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.100k.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos"
+        MAXSCALE 40000
+
+        PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:200k Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:200k scale."
+              "wms_title"       "World 1:100k Topos"
+              "wms_group_title" "World Topos"
+        END
+    END
+
+# World Topos - no limits
+    LAYER
+        name world_1m_no_scale_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.1m.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos Without Scale Limits"
+
+        PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:1m Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:1M scale."
+              "wms_title"       "World 1:1M Topos"
+              "wms_group_title" "World Topos"
+        END
+
+    END
+    LAYER
+        name world_500k_no_scale_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.500k.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos Without Scale Limits"
+
+        PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:500k Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:500k scale."
+              "wms_title"       "World 1:500k Topos"
+              "wms_group_title" "World Topos"
+        END
+
+    END
+    LAYER
+        name world_200k_no_scale_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.200k.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos Without Scale Limits"
+
+        PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:200k Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:200k scale."
+              "wms_title"       "World 1:200k Topos"
+              "wms_group_title" "World Topos"
+        END
+    END
+    LAYER
+        name world_100k_no_scale_limits
+        type raster
+        status on
+        OFFSITE 0 0 0
+        TILEINDEX "/ogc/data/bdl/drg/world/indexs/world.100k.3338.shp"
+        include "includes/projections/3338.include.map"
+
+        GROUP "World Topos Without Scale Limits"
+
+        PROCESSING "RESAMPLE=BILINEAR"
+
+        METADATA
+              WMS_TITLE "World 1:200k Topos"
+              WMS_ABSTRACT "This layer includes topographic maps composed of scanned Soviet military maps of the 1:200k scale."
+              "wms_title"       "World 1:100k Topos"
+              "wms_group_title" "World Topos"
+        END
+    END
+
+
+
+

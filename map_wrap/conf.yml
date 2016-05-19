@@ -25,6 +25,10 @@ configs:
       26740: "extras_3338.map"
       26906: "extras_3338.map"
       3572:  "extras_3572.map"
+      3573:  "extras_3573.map"
+      3574:  "extras_3574.map"
+      3575:  "extras_3575.map"
+      3576:  "extras_3576.map"
   "/faa_charts":
     prefix: "faa_charts"
     url: "faa_charts"
