@@ -58,6 +58,8 @@
 
         GROUP "DRG"
 
+	PROCESSING "RESAMPLE=BILINEAR"
+
         DEBUG ON
 
         METADATA
@@ -81,6 +83,8 @@
 
         DATA "/ogc/data/bdl/drg/63k/63k.google.vrt"
         include "includes/projections/900913.include.map"
+
+	PROCESSING "RESAMPLE=BILINEAR"
 
         GROUP "DRG"
 
