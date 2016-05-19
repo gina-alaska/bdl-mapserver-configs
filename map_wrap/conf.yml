@@ -12,6 +12,7 @@ configs:
       default: "extras_4326.map"
       4326: "extras_4326.map"
       900913: "extras_900913.map"
+      3857: "extras_900913.map"
       3338: "extras_3338.map"
       102006: "extras_3338.map"
       26732: "extras_3338.map"
