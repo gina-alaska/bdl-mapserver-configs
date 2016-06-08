@@ -57,6 +57,8 @@
 	DATA "/ogc/data/bdl/drg/250k/250k.geo.vrt"
         include "includes/projections/4326.include.map"
 
+	PROCESSING "RESAMPLE=BILINEAR"
+
         GROUP "DRG"
 
         DEBUG ON
@@ -84,6 +86,8 @@
         include "includes/projections/4326.include.map"
 
         GROUP "DRG"
+
+	PROCESSING "RESAMPLE=BILINEAR"
 
         DEBUG ON
         MAXSCALE 200000
