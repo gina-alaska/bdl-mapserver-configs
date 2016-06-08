@@ -100,8 +100,6 @@ configs:
       default: "ortho.map"
       3338: "ortho.map"
   "/wcs":
-    mapserv: /opt/mapping_tools_builds/2009_01_29/bin/mapserv
-    envsh: /opt/mapping_tools_builds/2009_01_29/setup.sh
     prefix: "wcs"
     url: "wcs"
     projections:

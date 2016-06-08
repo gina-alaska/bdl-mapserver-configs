@@ -25,7 +25,7 @@ WEB
     "wcs_keywordlist"              "wcs,test"
     "wcs_metadatalink_type"        "TC211" 
     "wcs_metadatalink_format"      "text/plain" 
-    "wcs_metadatalink_href"        "http://someurl.com"
+    "wcs_metadatalink_href"        "http://wms.alaskamapped.org/wcs"
     "wcs_address"                  "TBD"
     "wcs_city"                     "TBD"
     "wcs_stateorprovince"          "TBD"
@@ -37,6 +37,7 @@ WEB
     "wcs_contactposition"          "TBD"
     "wcs_contactvoicetelephone"    "TBD"
     "wcs_contactfacimiletelephone" "TBD"
+    "wcs_onlineresource" 	   "http://wms.alaskamapped.org/wcs?"
     "wcs_service_onlineresource"   "http://wms.alaskamapped.org/wcs?"            
     "wcs_enable_request"    "*"
   END
