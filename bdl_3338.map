@@ -5,4 +5,6 @@ MAP
 	include "layers/bdl/3338/low.include.map"
 	include "layers/bdl/3338/mid.include.map"
 	include "layers/bdl/3338/high.include.map"
+	include "layers/annotation/bdl.expiring.layer.map"
+
 END

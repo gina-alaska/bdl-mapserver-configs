@@ -44,3 +44,6 @@
     END
 
 
+    FONTSET "fonts.lst"
+    include "layers/annotation/bdl.expiring.layer.map"
+

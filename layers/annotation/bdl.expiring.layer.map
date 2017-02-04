@@ -1,0 +1,29 @@
+LAYER
+  NAME "notice"                 # we should always have one layer "base"
+  METADATA
+    "wms_title"     "notice"
+  END
+  STATUS DEFAULT
+  TYPE ANNOTATION
+
+  TRANSFORM ll #set the image origin to be lower left
+  FEATURE
+    POINTS
+      160 -14 #set the offset from lower left position in pixels
+    END
+    TEXT "More Info: http://bit.do/akgis" #this is your displaying text
+  END
+  CLASS
+    LABEL #defines the font, colors etc. of the text
+      FONT "sc"
+      TYPE TRUETYPE
+      SIZE 18
+      BUFFER 1
+      COLOR 0 0 0
+      OUTLINECOLOR 255 255 255
+      FORCE TRUE
+    END
+  END
+  UNITS PIXELS #sets the units for the feature object
+END
+

@@ -34,6 +34,9 @@ MAP
 		"wms_enable_request"    "*"
         END
     END
+    FONTSET "fonts.lst"
+    include "layers/annotation/bdl.expiring.layer.map"
+
 
 
 
