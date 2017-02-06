@@ -9,7 +9,7 @@ LAYER
   TRANSFORM ll #set the image origin to be lower left
   FEATURE
     POINTS
-      173 -14 #set the offset from lower left position in pixels
+      178 -14 #set the offset from lower left position in pixels
     END
     TEXT "Service end of life: http://bit.do/akgis" #this is your displaying text
   END
