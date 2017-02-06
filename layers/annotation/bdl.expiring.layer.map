@@ -11,7 +11,7 @@ LAYER
     POINTS
       173 -14 #set the offset from lower left position in pixels
     END
-    TEXT "Service end of life:http://bit.do/akgis" #this is your displaying text
+    TEXT "Service end of life: http://bit.do/akgis" #this is your displaying text
   END
   CLASS
     LABEL #defines the font, colors etc. of the text
