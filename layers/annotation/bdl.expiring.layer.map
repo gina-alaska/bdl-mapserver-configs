@@ -9,12 +9,13 @@ LAYER
   TRANSFORM ll #set the image origin to be lower left
   FEATURE
     POINTS
-      178 -14 #set the offset from lower left position in pixels
+      120 -30 #set the offset from lower left position in pixels
     END
-    TEXT "Service end of life: http://bit.do/akgis" #this is your displaying text
+    TEXT "Service end of life:!  alaskamapped.org/era" #this is your displaying text
   END
   CLASS
     LABEL #defines the font, colors etc. of the text
+      WRAP "!"
       FONT "sc"
       TYPE TRUETYPE
       SIZE 16
