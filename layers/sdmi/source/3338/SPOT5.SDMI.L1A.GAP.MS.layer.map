@@ -1,0 +1,29 @@
+LAYER
+         name SPOT5.SDMI.L1A.GAP.MS
+         type raster
+         status on
+         OFFSITE 0 0 0
+         DATA "/ogc/data/bdl/sdmi/source/gapf.cir.vrt"
+         PROJECTION
+                "proj=aea"
+                "lat_1=55"
+                "lat_2=65"
+                "lat_0=50"
+                "lon_0=-154"
+                "x_0=0"
+                "y_0=0"
+                "datum=NAD83"
+                "units=m"
+                "no_defs"
+         END
+        # set if needed.. values need to be calcuated carefully..
+        # MINSCALE 20000
+        # MAXSCALE 5000000
+         GROUP "MS"
+         METADATA
+                 WMS_TITLE "Gap Fill MS SDMI SPOT5 L1A Scenes"
+                 WMS_ABSTRACT "Multi-spectral SPOT5 scenes acquired between 2006 and 2013 obtained for completion of SDMI Ortho project."
+                 "wms_extent" "-1818094.0602231945 481306.59674767544 1484112.9291049398 2162492.2443532725"
+         END
+END
+

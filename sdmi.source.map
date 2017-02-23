@@ -1,0 +1,19 @@
+#for SDMI source - data in AA83 - license-restricted datasets - do not publish as ogc- mjs
+# url is wms.alaskamapped.org/source
+
+MAP	
+	include "defaults/sdmi.source.wms.default.includes.map"
+	include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.GAP.PAN.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.GAP.MS.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2013.PAN.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2013.MS.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2012.PAN.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2012.MS.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2011.PAN.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2011.MS.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2010.PAN.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2010.MS.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2009.PAN.layer.map"
+        include "layers/sdmi/source/3338/SPOT5.SDMI.L1A.2009.MS.layer.map"
+END
+

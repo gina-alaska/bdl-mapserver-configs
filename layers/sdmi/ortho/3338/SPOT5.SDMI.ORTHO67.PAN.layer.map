@@ -1,0 +1,27 @@
+LAYER
+	 name ORTHO.PAN
+	 type raster
+	 status on
+	 OFFSITE 0 0 0
+	 DATA "/ogc/data/bdl/sdmi/ortho/sdmi_ortho_wms_tiles/albers/pan/pan.vrt"
+	 PROJECTION
+		"proj=aea"
+		"lat_1=55"
+		"lat_2=65"
+		"lat_0=50"
+		"lon_0=-154"
+		"x_0=0"
+		"y_0=0"
+		"datum=NAD83"
+		"units=m"
+		"no_defs"
+	 END
+	# set if needed.. values need to be calcuated carefully..
+	# MINSCALE 20000
+	# MAXSCALE 5000000
+	 METADATA
+		 WMS_TITLE "SPOT5.SDMI.ORTHO67_PAN"
+		 WMS_ABSTRACT "TBD - not to be distributed"
+		 "wms_extent" "-1000000.0 500000.0 1500000.0 2380000.0"
+	 END
+END

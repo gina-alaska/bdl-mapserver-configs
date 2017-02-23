@@ -75,30 +75,24 @@ configs:
     url: "ifsar"
     projections:
       default:  "ifsar_3338.map"
-  "/ortho/cir":
-    prefix: "ortho"
-    url: "ortho/cir"
-    projections:
-      default: "ortho_cir.map"
-      3338: "ortho_cir.map"
-  "/ortho/pan":
-    prefix: "ortho"
-    url: "ortho/pan"
-    projections:
-      default: "ortho_pan.map"
-      3338: "ortho_pan.map"
-  "/ortho/rgb":
-    prefix: "ortho"
-    url: "ortho/rgb"
-    projections:
-      default: "ortho_rgb.map"
-      3338: "ortho_rgb.map"
   "/ortho":
     prefix: "ortho"
     url: "ortho"
     projections:
-      default: "ortho.map"
-      3338: "ortho.map"
+      default: "sdmi.ortho.map"
+      3338: "sdmi.ortho.map"
+  "/source":
+    prefix: "source"
+    url: "source"
+    projections:
+      default: "sdmi.source.map"
+      3338: "sdmi.source.map"
+  "/ortho67":
+    prefix: "ortho"
+    url: "ortho"
+    projections:
+      default: "sdmi.ortho67.map"
+      3338: "sdmi.ortho67.map"
   "/wcs":
     prefix: "wcs"
     url: "wcs"

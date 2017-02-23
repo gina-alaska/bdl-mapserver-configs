@@ -1,0 +1,10 @@
+#for SDMI ortho - data in AA83 - license-restricted datasets - do not publish as ogc- mjs
+# url is wms.alaskamapped.org/source
+
+MAP	
+	include "defaults/sdmi.ortho.wms.default.includes.map"
+        include "layers/sdmi/ortho/3338/SPOT5.SDMI.ORTHO.RGB.layer.map"
+        include "layers/sdmi/ortho/3338/SPOT5.SDMI.ORTHO.CIR.layer.map"
+        include "layers/sdmi/ortho/3338/SPOT5.SDMI.ORTHO.PAN.layer.map"
+END
+
