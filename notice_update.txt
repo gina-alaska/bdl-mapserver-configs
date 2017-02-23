@@ -1,0 +1,45 @@
+The notice stamped into the bdl is controlled via:
+the mapserver config file in here -> layers/annotation/bdl.expiring.layer.map
+
+It is in a special branch, and should only be applied to ogc-test. 
+
+
+The layer should look something like this:
+LAYER
+  NAME "notice"                 # we should always have one layer "base"
+  METADATA
+    "wms_title"     "notice"
+  END
+  STATUS DEFAULT
+  TYPE ANNOTATION
+
+  TRANSFORM ll #set the image origin to be lower left
+  FEATURE
+    POINTS
+      120 -30 #set the offset from lower left position in pixels
+    END
+    TEXT "Service end of life:!  alaskamapped.org/era" #this is your displaying text
+  END
+  CLASS
+    LABEL #defines the font, colors etc. of the text
+      WRAP "!"
+      FONT "sc"
+      TYPE TRUETYPE
+      SIZE 16
+      BUFFER 1
+      COLOR 0 0 0
+      OUTLINECOLOR 255 255 255
+      OUTLINEWIDTH 2
+      FORCE TRUE
+    END
+  END
+  UNITS PIXELS #sets the units for the feature object
+END
+
+
+
+To update the notice, checkout the "origin/public_overlay", make changes, then push back to the "origin/public_overlay" branch, then log into ogc-test.x.gina.alaska.edu, and run "sudo chef-client", and it should showup. 
+
+
+
+
